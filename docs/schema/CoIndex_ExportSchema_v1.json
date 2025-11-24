@@ -1,0 +1,54 @@
+{
+  "schema_id": "CoIndex_ExportSchema_v1",
+  "mission": "CoIndex_BackboneDesign2025_Mission",
+  "session": "MurphyPlus_CoIndex20251123",
+  "stamp": "20251124T031338Z",
+  "description": "Seed-stage JSON export shape for CoIndex pointees and tuples.",
+  "pointee": {
+    "id": "string - stable CoPointee id",
+    "source_uri": "string - URL or repo path to true source-of-truth asset",
+    "canonality": "string - Canon | Near-canon | Provisional | Draft | Fringe",
+    "reputation": {
+      "merit_rank": "number or null",
+      "co_halo": "number or null",
+      "rep_tags": [ "string" ],
+      "script_tag": "string or null"
+    },
+    "tuples": [
+      {
+        "concept": {
+          "id": "string",
+          "labels": [ "string" ],
+          "domains": [ "string" ]
+        },
+        "intent": {
+          "verbs": [ "string" ],
+          "direction": "string or null",
+          "priority": "number or null",
+          "expected_outcomes": [ "string" ]
+        },
+        "context": {
+          "domains": [ "string" ],
+          "time_window": "string or null",
+          "jurisdictions": [ "string" ],
+          "assumptions": [ "string" ]
+        },
+        "state": {
+          "metrics": {
+            "example_metric": "number or string"
+          },
+          "system_state": "string or null",
+          "stakeholder_state": "string or null",
+          "confidence": "number or null"
+        },
+        "constraints": {
+          "ethics": [ "string" ],
+          "civic": [ "string" ],
+          "legal": [ "string" ],
+          "safety": [ "string" ],
+          "drift_limits": "string or null"
+        }
+      }
+    ]
+  }
+}

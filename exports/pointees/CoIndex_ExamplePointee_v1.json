@@ -1,0 +1,91 @@
+{
+  "stamp": "20251124T143150Z",
+  "mission": "CoIndex_BackboneDesign2025_Mission",
+  "session": "MurphyPlus_CoIndex20251123",
+  "pointee": {
+    "tuples": [
+      {
+        "constraints": {
+          "ethics": [
+            "do-no-harm",
+            "respect-human-rights"
+          ],
+          "safety": [
+            "prevent-capture",
+            "prevent-single-vendor-control"
+          ],
+          "legal": [
+            "comply-with-local-law-where-ethical"
+          ],
+          "civic": [
+            "no-corruption",
+            "no-coercion",
+            "no-crowns"
+          ],
+          "drift_limits": "tight for Canon, moderate for Provisional"
+        },
+        "intent": {
+          "expected_outcomes": [
+            "safer AI evolution",
+            "edge-controlled semantics",
+            "transparent drift"
+          ],
+          "priority": 10,
+          "verbs": [
+            "organise",
+            "govern",
+            "constrain"
+          ],
+          "direction": "towards-safe-evolution"
+        },
+        "concept": {
+          "domains": [
+            "governance",
+            "indexing",
+            "civic-tech"
+          ],
+          "labels": [
+            "CoIndex",
+            "semantic backbone for CoCivium"
+          ],
+          "id": "Concept:CoIndex"
+        },
+        "state": {
+          "confidence": 0.6,
+          "metrics": {
+            "example_metric": "not-yet-measured"
+          },
+          "system_state": "design-complete-seed-stage",
+          "stakeholder_state": "early-adopters"
+        },
+        "context": {
+          "domains": [
+            "CoCivium",
+            "CoSuite"
+          ],
+          "jurisdictions": [
+            "global"
+          ],
+          "time_window": "seed-stage and beyond",
+          "assumptions": [
+            "repos are source of truth",
+            "edge control is enforced"
+          ]
+        }
+      }
+    ],
+    "canonality": "Provisional",
+    "reputation": {
+      "merit_rank": 0.7,
+      "co_halo": 0.6,
+      "script_tag": null,
+      "rep_tags": [
+        "seed-stage",
+        "design-backbone"
+      ]
+    },
+    "source_uri": "github://rickballard/CoIndex/README.md",
+    "id": "CoIndex:Example:SemanticBackbone:v1"
+  },
+  "schema_id": "CoIndex_ExportSchema_v1"
+}
