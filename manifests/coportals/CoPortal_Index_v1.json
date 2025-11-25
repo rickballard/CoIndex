@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "generated_uts": "20251125T073037Z",
+  "description": "Index of CoPortals in the CoSuite. Each entry describes an AI-facing portal that projects one or more repos.",
+  "portals": [
+    {
+      "id": "CoPortal_CoStewards",
+      "label": "CoStewards for AI Native Governance",
+      "repo": "CoCivium",
+      "path": "site/coportal-costeward.html",
+      "mission": "CoPortal_CoStewards_Mission",
+      "status": "active",
+      "notes": "CoPortal for humans who act as CoStewards of AI native institutions. First v1 example of the CoPortals pattern."
+    }
+  ]
+}

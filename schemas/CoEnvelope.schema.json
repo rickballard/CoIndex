@@ -1,0 +1,10 @@
+{
+  "id": "CoEnvelope.schema.json",
+  "version": "0.1.0-draft",
+  "status": "draft",
+  "description": "Auto-generated Wave 0 schema stub. To be evolved in Wave 1+.",
+  "spec_ref": "",
+  "governance": {},
+  "evolution": {},
+  "telemetry": {}
+}
