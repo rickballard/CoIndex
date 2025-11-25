@@ -1,10 +1,118 @@
 {
-  "id": "CoMetaRail.schema.json",
+  "id": "CoMetaRail",
+  "kind": "governance_schema",
   "version": "0.1.0-draft",
-  "status": "draft",
-  "description": "Auto-generated Wave 0 schema stub. To be evolved in Wave 1+.",
-  "spec_ref": "",
-  "governance": {},
-  "evolution": {},
-  "telemetry": {}
+  "description": "Meta-schema for governance rails (GovernanceProfile) describing who can change what in a standard.",
+  "fields": {
+    "policy_id": {
+      "type": "string",
+      "required": true,
+      "description": "Identifier for this governance profile."
+    },
+    "version": {
+      "type": "string",
+      "required": true,
+      "description": "Version of this governance profile."
+    },
+    "status": {
+      "type": "string",
+      "required": false,
+      "enum": [ "draft", "beta", "stable", "deprecated" ]
+    },
+    "roles": {
+      "type": "array",
+      "required": true,
+      "description": "Roles involved in governing the standard.",
+      "items": {
+        "type": "object",
+        "fields": {
+          "id": {
+            "type": "string",
+            "required": true,
+            "description": "Role identifier (e.g., maintainer, editor, chair)."
+          },
+          "name": {
+            "type": "string",
+            "required": true,
+            "description": "Human-readable role name."
+          },
+          "description": {
+            "type": "string",
+            "required": false
+          },
+          "can_approve_core": {
+            "type": "boolean",
+            "required": false,
+            "description": "Whether this role can approve changes to core spec."
+          },
+          "can_approve_profiles": {
+            "type": "boolean",
+            "required": false,
+            "description": "Whether this role can approve profile/annex changes."
+          }
+        }
+      }
+    },
+    "scopes": {
+      "type": "array",
+      "required": true,
+      "description": "Governance scopes such as core, profiles, examples, tooling.",
+      "items": {
+        "type": "object",
+        "fields": {
+          "id": {
+            "type": "string",
+            "required": true,
+            "description": "Scope identifier (e.g., core, profile, example, tooling)."
+          },
+          "description": {
+            "type": "string",
+            "required": false
+          }
+        }
+      }
+    },
+    "change_policies": {
+      "type": "array",
+      "required": true,
+      "description": "Rules describing how changes are proposed, reviewed, and approved for each scope.",
+      "items": {
+        "type": "object",
+        "fields": {
+          "scope_id": {
+            "type": "string",
+            "required": true,
+            "description": "Links this policy to a governance scope."
+          },
+          "allowed_proposers": {
+            "type": "array",
+            "required": true,
+            "items": { "type": "string" },
+            "description": "Roles allowed to propose changes for this scope."
+          },
+          "allowed_approvers": {
+            "type": "array",
+            "required": true,
+            "items": { "type": "string" },
+            "description": "Roles required to approve changes for this scope."
+          },
+          "requires_human_review": {
+            "type": "boolean",
+            "required": true,
+            "description": "Whether human review is always required for changes in this scope."
+          },
+          "ai_proposals_allowed": {
+            "type": "boolean",
+            "required": true,
+            "description": "Whether AI can propose changes in this scope (subject to approval rules)."
+          },
+          "min_review_period_days": {
+            "type": "integer",
+            "required": false,
+            "description": "Minimum review period before changes can be merged."
+          }
+        }
+      }
+    }
+  }
 }
