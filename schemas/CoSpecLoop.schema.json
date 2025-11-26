@@ -1,10 +1,149 @@
 {
-  "id": "CoSpecLoop.schema.json",
+  "id": "CoSpecLoop",
+  "kind": "evolution_schema",
   "version": "0.1.0-draft",
-  "status": "draft",
-  "description": "Auto-generated Wave 0 schema stub. To be evolved in Wave 1+.",
-  "spec_ref": "",
-  "governance": {},
-  "evolution": {},
-  "telemetry": {}
+  "description": "Meta-schema for the evolution loop (EvolutionProfile) describing how a standard evolves over time.",
+  "fields": {
+    "loop_id": {
+      "type": "string",
+      "required": true,
+      "description": "Identifier for this evolution loop definition."
+    },
+    "version": {
+      "type": "string",
+      "required": true,
+      "description": "Version of this evolution loop definition."
+    },
+    "status": {
+      "type": "string",
+      "required": false,
+      "enum": [ "draft", "beta", "stable", "deprecated" ]
+    },
+    "telemetry_sources": {
+      "type": "array",
+      "required": false,
+      "description": "Sources of telemetry used to inform evolution decisions.",
+      "items": {
+        "type": "object",
+        "fields": {
+          "id": {
+            "type": "string",
+            "required": true
+          },
+          "kind": {
+            "type": "string",
+            "required": true,
+            "description": "Kind of telemetry (e.g., adoption_stats, error_rates, performance_metrics)."
+          },
+          "description": {
+            "type": "string",
+            "required": false
+          }
+        }
+      }
+    },
+    "metrics": {
+      "type": "array",
+      "required": false,
+      "description": "Fitness metrics used to evaluate candidate changes.",
+      "items": {
+        "type": "object",
+        "fields": {
+          "id": {
+            "type": "string",
+            "required": true,
+            "description": "Metric identifier."
+          },
+          "name": {
+            "type": "string",
+            "required": true
+          },
+          "description": {
+            "type": "string",
+            "required": false
+          },
+          "direction": {
+            "type": "string",
+            "required": false,
+            "enum": [ "higher_is_better", "lower_is_better", "target_range" ]
+          }
+        }
+      }
+    },
+    "proposal_flow": {
+      "type": "object",
+      "required": true,
+      "description": "Describes how change proposals are created, evaluated, and advanced.",
+      "fields": {
+        "stages": {
+          "type": "array",
+          "required": true,
+          "items": {
+            "type": "object",
+            "fields": {
+              "id": {
+                "type": "string",
+                "required": true
+              },
+              "name": {
+                "type": "string",
+                "required": true
+              },
+              "description": {
+                "type": "string",
+                "required": false
+              },
+              "entry_conditions": {
+                "type": "array",
+                "required": false,
+                "items": { "type": "string" }
+              },
+              "exit_conditions": {
+                "type": "array",
+                "required": false,
+                "items": { "type": "string" }
+              }
+            }
+          }
+        }
+      }
+    },
+    "rollout_policy": {
+      "type": "object",
+      "required": false,
+      "description": "Describes how accepted changes are rolled out and stabilized.",
+      "fields": {
+        "supports_beta": {
+          "type": "boolean",
+          "required": false
+        },
+        "min_beta_duration_days": {
+          "type": "integer",
+          "required": false
+        },
+        "deprecation_policy": {
+          "type": "string",
+          "required": false,
+          "description": "High-level rules for deprecating older versions or profiles."
+        }
+      }
+    },
+    "rollback_policy": {
+      "type": "object",
+      "required": false,
+      "description": "Describes how changes can be reverted if they degrade fitness.",
+      "fields": {
+        "triggers": {
+          "type": "array",
+          "required": false,
+          "items": { "type": "string" }
+        },
+        "rollback_actions": {
+          "type": "array",
+          "required": false,
+          "items": { "type": "string" }
+        }
+      }
+    }
+  }
 }

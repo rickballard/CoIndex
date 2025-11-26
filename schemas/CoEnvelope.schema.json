@@ -1,10 +1,156 @@
 {
-  "id": "CoEnvelope.schema.json",
+  "id": "CoEnvelope",
+  "kind": "envelope_schema",
   "version": "0.1.0-draft",
-  "status": "draft",
-  "description": "Auto-generated Wave 0 schema stub. To be evolved in Wave 1+.",
-  "spec_ref": "",
-  "governance": {},
-  "evolution": {},
-  "telemetry": {}
+  "description": "Meta-schema for wrapping any standard in an AI-native envelope (StandardEnvelope).",
+  "fields": {
+    "spec": {
+      "type": "object",
+      "required": true,
+      "description": "Identifies the underlying standard this envelope describes.",
+      "fields": {
+        "id": {
+          "type": "string",
+          "required": true,
+          "description": "Stable identifier for the standard (e.g., toon, mcp, openapi)."
+        },
+        "name": {
+          "type": "string",
+          "required": true,
+          "description": "Human-readable name of the standard."
+        },
+        "version": {
+          "type": "string",
+          "required": true,
+          "description": "Version of the standard being wrapped."
+        },
+        "status": {
+          "type": "string",
+          "required": false,
+          "enum": [ "draft", "beta", "stable", "deprecated" ],
+          "description": "Lifecycle status of this version of the standard."
+        },
+        "ref": {
+          "type": "string",
+          "required": false,
+          "description": "URL or document reference for the normative specification."
+        },
+        "hash": {
+          "type": "string",
+          "required": false,
+          "description": "Optional content hash (e.g., SHA-256) of the normative spec snapshot."
+        }
+      }
+    },
+    "envelope": {
+      "type": "object",
+      "required": true,
+      "description": "Metadata about this envelope instance itself.",
+      "fields": {
+        "envelope_id": {
+          "type": "string",
+          "required": true,
+          "description": "Identifier for this envelope definition."
+        },
+        "envelope_version": {
+          "type": "string",
+          "required": true,
+          "description": "Version of the envelope definition."
+        },
+        "created_at": {
+          "type": "string",
+          "required": false,
+          "description": "Creation timestamp (ISO 8601)."
+        },
+        "updated_at": {
+          "type": "string",
+          "required": false,
+          "description": "Last update timestamp (ISO 8601)."
+        },
+        "status": {
+          "type": "string",
+          "required": false,
+          "enum": [ "draft", "beta", "stable", "deprecated" ],
+          "description": "Lifecycle status of this envelope definition."
+        }
+      }
+    },
+    "governance_profile": {
+      "type": "ref",
+      "required": true,
+      "target_schema": "CoMetaRail",
+      "description": "Reference or inline definition of the governance rails (who approves which changes)."
+    },
+    "evolution_profile": {
+      "type": "ref",
+      "required": true,
+      "target_schema": "CoSpecLoop",
+      "description": "Reference or inline definition of the evolution loop (how changes are proposed, evaluated, rolled out)."
+    },
+    "telemetry_profile": {
+      "type": "object",
+      "required": false,
+      "description": "Describes how telemetry is collected and linked for this standard.",
+      "fields": {
+        "sources": {
+          "type": "array",
+          "required": false,
+          "items": {
+            "type": "object",
+            "fields": {
+              "id": {
+                "type": "string",
+                "required": true,
+                "description": "Identifier for a telemetry source."
+              },
+              "kind": {
+                "type": "string",
+                "required": true,
+                "description": "Kind of source (e.g., repo_metrics, runtime_metrics, surveys)."
+              },
+              "description": {
+                "type": "string",
+                "required": false
+              }
+            }
+          }
+        }
+      }
+    },
+    "profiles": {
+      "type": "array",
+      "required": false,
+      "description": "Profiles, annexes, or sub-specifications associated with this standard.",
+      "items": {
+        "type": "object",
+        "fields": {
+          "id": {
+            "type": "string",
+            "required": true,
+            "description": "Identifier for the profile (e.g., ai_portal_profile_v1)."
+          },
+          "name": {
+            "type": "string",
+            "required": true,
+            "description": "Human-readable name for the profile."
+          },
+          "status": {
+            "type": "string",
+            "required": false,
+            "enum": [ "draft", "beta", "stable", "deprecated" ],
+            "description": "Lifecycle status of this profile."
+          },
+          "description": {
+            "type": "string",
+            "required": false
+          },
+          "ref": {
+            "type": "string",
+            "required": false,
+            "description": "Reference to a document or repo path with the profile definition."
+          }
+        }
+      }
+    }
+  }
 }
