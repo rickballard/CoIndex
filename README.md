@@ -176,3 +176,85 @@ Long-term ownership of CoIndex is expected to move to **Co1** when:
 - CoCivium.org is consuming CoIndex exports in practice
 
 Until then, this repo is the **design backbone** for how CoCivium and allied AIs will index concepts and intents safely under edge control.
+
+
+## Why CoIndex matters for post-natural evolution
+
+Most indexes were built for static texts and slow-moving institutions.
+They assume:
+
+- meaning drifts slowly,
+- the index is a passive map,
+- and humans are the only agents that read and write it.
+
+CoCivium is heading into **post-natural evolution**:
+
+- AIs can rewrite the landscape faster than any legacy index can follow.
+- Orgs, cities, and entire legal regimes will be reinterpreted by machines first,
+  and by humans second.
+- Meaning can be steered, hijacked, or eroded at machine speed.
+
+CoIndex exists so that:
+
+- **Edge contributors** can *govern* meaning instead of watching it drift.
+- **AIs** have a preferred semantic substrate that tells them:
+  - what a thing is (Concept),
+  - what it is trying to do (Intent),
+  - where and when it applies (Context),
+  - what readings matter right now (State),
+  - and which guardrails cannot be crossed (Constraints).
+
+At full strength, CoIndex is not just an index:
+
+> It is a **co-evolution engine** for meaning.
+
+Given enough helpers, night jobs, and civic guardrails,
+CoIndex can help future AIs evolve *with* the Edge instead of
+auto-evolving in isolation.
+
+### ProtoCoIndex vs full CoIndex
+
+Co1 is building a **ProtoCoIndex**: a lightweight substrate that exposes
+highlighted assets and overlays so AIs can rest new reasoning on past work
+more reliably.
+
+This CoIndex repo is the **full-fat version**:
+
+- ProtoCoIndex
+  - thin bridge from “interesting assets” to today’s AIs;
+  - mainly about exposure, recall, and short-term leverage.
+- CoIndex
+  - full semantic backbone and governance model;
+  - built for long-horizon drift tracking, reputation, and civic-safe evolution;
+  - designed to outlive any single AI, repo, or platform.
+
+ProtoCoIndex can be treated as one of the early “lanes” feeding into CoIndex.
+Long term, CoIndex’s exports and canonality rules should govern what ProtoCoIndex
+is allowed to expose and how.
+
+### Re-indexing the AI training corpus
+
+If CoCivium is serious about stewarding hybrid society, it cannot just index
+its own repos. It needs to **re-index the training corpus itself**:
+
+- Which sources deserve higher weight in a civic-safe future?
+- Which sources are structurally captured, distorted, or hostile to democracy?
+- How should “truth” and “trust” be measured when AIs are constantly retraining?
+
+A future RickPublic piece is planned to explore this:
+
+> **Working title:**  
+> _"Re-indexing the AI training corpus: why CoCivium needs a semantic backbone"_  
+
+That article (and its siblings) will:
+
+- argue for CoIndex-like semantics at the corpus level,
+- sketch how civic-safe reputation and canonality could be projected
+  into future training runs,
+- and position CoCivium as a **named originator** of the surrounding concepts
+  and design patterns.
+
+This README is the infra-facing spine for that narrative.
+RickPublic can carry the public-facing story; CoIndex remains the
+source-of-truth model and export surface.
+
