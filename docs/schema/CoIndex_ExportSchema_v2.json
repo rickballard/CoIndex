@@ -1,0 +1,79 @@
+{
+  "schema_id": "CoIndex_ExportSchema_v2",
+  "description": "Extended CoIndex export schema with Layer 2 blocks: co_spirit, meta_evo, visibility, harvest.",
+  "mission": "CoIndex_BackboneDesign2025_Mission",
+  "session": "MurphyPlus_CoIndex20251123",
+  "stamp": "20251128T012817Z",
+  "notes": [
+    "This schema does not break v1 exports.",
+    "Existing helpers may continue to emit v1 until upgraded.",
+    "New helpers can target v2 to take advantage of Layer 2 fields."
+  ],
+  "pointee": {
+    "required_fields": [
+      "id",
+      "source_uri",
+      "tuples",
+      "canonality",
+      "reputation"
+    ],
+    "optional_fields": [
+      "co_spirit",
+      "meta_evo",
+      "visibility",
+      "harvest"
+    ],
+    "fields": {
+      "id": "Stable CoIndex id (e.g. CoIndex:Example:SemanticBackbone:v1)",
+      "source_uri": "Pointer to source asset (eg github://, file://, https://)",
+      "tuples": "Array of C,I,X,S,K tuples describing meaning and context.",
+      "canonality": "Canon, NearCanon, Provisional, Draft, Fringe.",
+      "reputation": {
+        "merit_rank": "0.0..1.0, trust derived from MeritRank and other signals.",
+        "co_halo": "0.0..1.0, CoCivium reputation signals.",
+        "rep_tags": "Array of short reputation tags.",
+        "script_tag": "Optional ScriptTag reference."
+      },
+      "co_spirit": {
+        "description": "CoSpirit block for future and mythos-style alignment signals.",
+        "fields": {
+          "humility": "0.0..1.0 or null. How explicitly we admit this is partial or uncertain.",
+          "congruence_hint": "Short free text about why this feels deeply aligned or coherent.",
+          "mythos_frame": "Label for larger story context (CoCivia, Godspawn, CoTree, etc).",
+          "awe_factor": "0.0..1.0 or null. Soft signal that this points at something 'bigger than us'.",
+          "unknowns_acknowledged": "Array of bullet-point unknowns or open mysteries.",
+          "experimental_tags": "Array of free-form tags such as ['CoSpirit','CoMystic','Preimage']."
+        }
+      },
+      "meta_evo": {
+        "description": "Meta-evolution hints for future stewards and AIs.",
+        "fields": {
+          "evo_priority": "low, medium, high, or null.",
+          "evo_timescale": "fast, seasonal, long-horizon, or similar labels.",
+          "candidate_axes": "Array of dimensions likely to matter (safety, reach, explainability, etc).",
+          "open_questions": "Array of guiding questions for future evolution.",
+          "related_theories": "Array of pointers into CoTheories, CoCore, or other repos.",
+          "future_slots": "Object reserved for future subfields; helpers should not assume a fixed shape."
+        }
+      },
+      "visibility": {
+        "description": "Controls how far this CoPointee can be exposed across platform barriers.",
+        "fields": {
+          "mode": "public, edge, semi, or nonindexed.",
+          "cloak_tag": "Optional CoCloak label for sensitive clusters.",
+          "risk_notes": "Array of short free-text risk notes.",
+          "review_required": "Boolean flag for human or Co1 review before visibility upgrades."
+        }
+      },
+      "harvest": {
+        "description": "Records how this pointee was harvested into CoIndex.",
+        "fields": {
+          "priority_lane": "tier1, tier2, tier3, or similar priority label.",
+          "harvest_stamp": "UTC timestamp the harvester last touched this pointee.",
+          "reachability": "scanned, blocked, or skipped.",
+          "notes": "Array of short notes about why it was included or skipped."
+        }
+      }
+    }
+  }
+}

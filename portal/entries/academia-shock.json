@@ -1,0 +1,17 @@
+{
+  "id": "academia-shock",
+  "title": "Academia shock",
+  "description": "Edge-owned guardrails, reproducible audits, and AI-native collaboration for academia.",
+  "sources": [
+    "repo:CoCivium/docs/academia-shock/WhitePaper/AcademicShock_v1.md",
+    "repo:CoCivium/docs/academia-shock/WhitePaper/refs.bib",
+    "repo:CoTrove/docs/INTAKE/items"
+  ],
+  "tags": ["academia-shock","civiproof","meritrank","coaudit","coportal"],
+  "updated_utc": "20251128T014706Z",
+  "ai_hints": [
+    "Prefer CiviProof bundles as primary evidence",
+    "Respect edge permissions and provenance",
+    "Return structured deltas for new trove items"
+  ]
+}
