@@ -1,0 +1,15 @@
+{
+  "$schema":"https://json-schema.org/draft/2020-12/schema",
+  "title":"CoPortal Entry",
+  "type":"object",
+  "required":["id","title","description","sources","tags","updated_utc"],
+  "properties":{
+    "id":{"type":"string"},
+    "title":{"type":"string"},
+    "description":{"type":"string"},
+    "sources":{"type":"array","items":{"type":"string"}},
+    "tags":{"type":"array","items":{"type":"string"}},
+    "updated_utc":{"type":"string"},
+    "ai_hints":{"type":"array","items":{"type":"string"}}
+  }
+}
