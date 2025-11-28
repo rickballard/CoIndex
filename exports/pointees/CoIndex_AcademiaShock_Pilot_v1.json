@@ -1,0 +1,103 @@
+{
+  "generated_utc": "20251128T094406Z",
+  "pointees": [
+    {
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      },
+      "repo": "InSeed",
+      "path": "docs/intent/InSeed_AssetSweep_Whitepaper_Dino_v1.md",
+      "role": "whitepaper-sweep",
+      "source_wave": "CoIndex20251128",
+      "lane_id": "academia-shock",
+      "id": "academia-shock:whitepaper-dino",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      }
+    },
+    {
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      },
+      "repo": "InSeed",
+      "path": "docs/site/CoPrimer_Page_v1.md",
+      "role": "exec-facing-page",
+      "source_wave": "CoIndex20251128",
+      "lane_id": "academia-shock",
+      "id": "academia-shock:coprimer-page",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      }
+    },
+    {
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      },
+      "repo": "CoSteward",
+      "path": "docs/ops/CoSteward_Ops_Manual_v1.md",
+      "role": "ops-context",
+      "source_wave": "CoIndex20251128",
+      "lane_id": "academia-shock",
+      "id": "academia-shock:costeward-ops-manual",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      }
+    },
+    {
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      },
+      "repo": "CoSteward",
+      "path": "docs/intent/CoStatus_Pulses_v1.md",
+      "role": "status-context",
+      "source_wave": "CoIndex20251128",
+      "lane_id": "academia-shock",
+      "id": "academia-shock:costatus-pulses",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      }
+    },
+    {
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      },
+      "repo": "CoSteward",
+      "path": "docs/intent/CoSessionRegistry_v1.md",
+      "role": "session-registry-context",
+      "source_wave": "CoIndex20251128",
+      "lane_id": "academia-shock",
+      "id": "academia-shock:cosession-registry",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      }
+    }
+  ],
+  "source_session": "CoIndex20251128",
+  "schema_version": "CoIndex_ExportSchema_v2-pilot",
+  "lane_id": "academia-shock"
+}
