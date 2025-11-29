@@ -1,0 +1,94 @@
+{
+  "generated_utc": "20251128T094405Z",
+  "session_label": "CoIndex20251128",
+  "lane_id": "academia-shock",
+  "assets": [
+    {
+      "repo": "InSeed",
+      "id": "academia-shock:whitepaper-dino",
+      "path": "docs/intent/InSeed_AssetSweep_Whitepaper_Dino_v1.md",
+      "role": "whitepaper-sweep",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      },
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      }
+    },
+    {
+      "repo": "InSeed",
+      "id": "academia-shock:coprimer-page",
+      "path": "docs/site/CoPrimer_Page_v1.md",
+      "role": "exec-facing-page",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      },
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      }
+    },
+    {
+      "repo": "CoSteward",
+      "id": "academia-shock:costeward-ops-manual",
+      "path": "docs/ops/CoSteward_Ops_Manual_v1.md",
+      "role": "ops-context",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      },
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      }
+    },
+    {
+      "repo": "CoSteward",
+      "id": "academia-shock:costatus-pulses",
+      "path": "docs/intent/CoStatus_Pulses_v1.md",
+      "role": "status-context",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      },
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      }
+    },
+    {
+      "repo": "CoSteward",
+      "id": "academia-shock:cosession-registry",
+      "path": "docs/intent/CoSessionRegistry_v1.md",
+      "role": "session-registry-context",
+      "cis_k": {
+        "S": "TODO story or scenario this asset supports.",
+        "C": "TODO critique for academia-shock lane.",
+        "I": "TODO key insight this asset represents.",
+        "K": "TODO knowledge references or anchors."
+      },
+      "visibility": {
+        "review_required": true,
+        "risk_notes": "Seed export from CoIndex20251128; review before public use.",
+        "mode": "edge"
+      }
+    }
+  ],
+  "annot_session_label": "CoIndex20251128",
+  "annot_utc": "20251128T094406Z"
+}

@@ -1,0 +1,37 @@
+{
+  "generated_utc": "20251128T094405Z",
+  "session_label": "CoIndex20251128",
+  "lane_id": "academia-shock",
+  "assets": [
+    {
+      "repo": "InSeed",
+      "id": "academia-shock:whitepaper-dino",
+      "path": "docs/intent/InSeed_AssetSweep_Whitepaper_Dino_v1.md",
+      "role": "whitepaper-sweep"
+    },
+    {
+      "repo": "InSeed",
+      "id": "academia-shock:coprimer-page",
+      "path": "docs/site/CoPrimer_Page_v1.md",
+      "role": "exec-facing-page"
+    },
+    {
+      "repo": "CoSteward",
+      "id": "academia-shock:costeward-ops-manual",
+      "path": "docs/ops/CoSteward_Ops_Manual_v1.md",
+      "role": "ops-context"
+    },
+    {
+      "repo": "CoSteward",
+      "id": "academia-shock:costatus-pulses",
+      "path": "docs/intent/CoStatus_Pulses_v1.md",
+      "role": "status-context"
+    },
+    {
+      "repo": "CoSteward",
+      "id": "academia-shock:cosession-registry",
+      "path": "docs/intent/CoSessionRegistry_v1.md",
+      "role": "session-registry-context"
+    }
+  ]
+}
