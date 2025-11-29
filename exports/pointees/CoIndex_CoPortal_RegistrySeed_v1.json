@@ -1,0 +1,95 @@
+{
+  "schema_version": "CoPortalRegistry_v1",
+  "written_utc": "20251129T124541Z",
+  "session_label": "CoIndex20251128",
+  "pointees": [
+    {
+      "id": "codream.hp.rails",
+      "label": "CoDream vs HP / HP57 rails",
+      "category": "manifesto",
+      "repo_root": "C:\\Users\\Chris\\Documents\\GitHub\\CoIndex",
+      "rel_path": "docs/manifestos/CoIndex_CoDream_HP_Rails_v1.md",
+      "source": "repo",
+      "sensitivity": "public",
+      "lens": "codream",
+      "tags": [
+        "vision",
+        "hp",
+        "hp57",
+        "rails",
+        "codream",
+        "indexing"
+      ],
+      "helpers": [
+        "CoIndex_A_Annotate",
+        "CoIndex_H_Harvest",
+        "CoIndex_E_Emit"
+      ],
+      "notes": "Defines public CoDream vs commercial HP / HP57 rails and how CoIndex should treat each."
+    },
+    {
+      "id": "cocachelocal.pointers",
+      "label": "CoCacheLocal buckets map",
+      "category": "ops",
+      "repo_root": "C:\\Users\\Chris\\Documents\\GitHub\\CoIndex",
+      "rel_path": "docs/ops/CoCacheLocal_Pointers_v1.md",
+      "source": "repo",
+      "sensitivity": "public",
+      "lens": "storage-map",
+      "tags": [
+        "cocachelocal",
+        "nas",
+        "hp57",
+        "advicebombs",
+        "megazips"
+      ],
+      "helpers": [
+        "CoIndex_H_Harvest"
+      ],
+      "notes": "Describes NAS layout such as Z:\\_AdviceBombs and Z:\\_HP57 buckets for HP57 aware helpers."
+    },
+    {
+      "id": "pilot.academia-shock",
+      "label": "AcademiaShock pilot pointees",
+      "category": "pilot",
+      "repo_root": "C:\\Users\\Chris\\Documents\\GitHub\\CoIndex",
+      "rel_path": "exports/pointees/CoIndex_AcademiaShock_Pilot_v1.json",
+      "source": "repo",
+      "sensitivity": "public",
+      "lens": "non-truth-index",
+      "tags": [
+        "academia",
+        "shock",
+        "pilot",
+        "pointees",
+        "non-truth-index"
+      ],
+      "helpers": [
+        "CoIndex_A_Annotate",
+        "CoIndex_H_Harvest",
+        "CoIndex_E_Emit"
+      ],
+      "notes": "Seed pointees for the AcademiaShock non-truth index pilot."
+    },
+    {
+      "id": "hp57.advicebomb.index.v1",
+      "label": "HP57 AdviceBomb content index v1",
+      "category": "hp57-index",
+      "repo_root": "Z:\\_HP57",
+      "rel_path": "_Indexes/HP57_AdviceBomb_Index_v1.jsonl",
+      "source": "hp57",
+      "sensitivity": "hp57-private",
+      "lens": "hp57-advicebombs",
+      "tags": [
+        "hp57",
+        "advicebombs",
+        "index",
+        "jsonl"
+      ],
+      "helpers": [
+        "CoIndex_H_Harvest"
+      ],
+      "notes": "JSONL index over HP57 AdviceBomb transcript files; lives only under HP57 storage, not in repos."
+    }
+  ]
+}
