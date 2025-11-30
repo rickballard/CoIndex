@@ -1,5 +1,5 @@
 {
-  "schema_version": "CoPortalRegistry_v1",
+  "schema_version": "CoGibberRegistry_v1",
   "written_utc": "20251129T124541Z",
   "session_label": "CoIndex20251128",
   "pointees": [
@@ -26,12 +26,12 @@
         "CoIndex_E_Emit"
       ],
       "notes": "Defines public CoDream vs commercial HP / HP57 rails and how CoIndex should treat each.",
-      "gib": "gib://coportal/pointee/codream.hp.rails",
+      "gib": "gib://cogibber/pointee/codream.hp.rails",
       "ai_profile": {
         "role": "vision-rails",
         "priority": "high",
         "surfaces": [
-          "coportal",
+          "cogbx",
           "assistant"
         ],
         "mutable": true
@@ -62,12 +62,12 @@
         "CoIndex_H_Harvest"
       ],
       "notes": "Describes NAS layout such as Z:\\_AdviceBombs and Z:\\_HP57 buckets for HP57 aware helpers.",
-      "gib": "gib://coportal/pointee/cocachelocal.pointers",
+      "gib": "gib://cogibber/pointee/cocachelocal.pointers",
       "ai_profile": {
         "role": "storage-map",
         "priority": "medium",
         "surfaces": [
-          "coportal",
+          "cogbx",
           "assistant"
         ],
         "mutable": true
@@ -100,12 +100,12 @@
         "CoIndex_E_Emit"
       ],
       "notes": "Seed pointees for the AcademiaShock non-truth index pilot.",
-      "gib": "gib://coportal/pointee/pilot.academia-shock",
+      "gib": "gib://cogibber/pointee/pilot.academia-shock",
       "ai_profile": {
         "role": "pilot-non-truth-index",
         "priority": "high",
         "surfaces": [
-          "coportal",
+          "cogbx",
           "assistant"
         ],
         "mutable": true
@@ -135,12 +135,12 @@
         "CoIndex_H_Harvest"
       ],
       "notes": "JSONL index over HP57 AdviceBomb transcript files; lives only under HP57 storage, not in repos.",
-      "gib": "gib://coportal/pointee/hp57.advicebomb.index.v1",
+      "gib": "gib://cogibber/pointee/hp57.advicebomb.index.v1",
       "ai_profile": {
         "role": "hp57-private-index",
         "priority": "guarded",
         "surfaces": [
-          "coportal",
+          "cogbx",
           "assistant"
         ],
         "mutable": true
@@ -154,14 +154,16 @@
     }
   ],
   "schema_extensions": [
-    "CoPortalRegistry_Gibber_v1"
+    "CoPortalRegistry_Gibber_v1",
+    "CoGibberRegistry_v1"
   ],
   "ai": {
-    "registry_role": "coportal-pointee-registry",
+    "registry_role": "cogbx-pointee-registry",
     "usage_modes": [
       "co1-orchestrator",
       "assistant",
-      "indexer"
+      "indexer",
+      "cogbx-view"
     ],
     "gibber_ready": true
   },
@@ -178,14 +180,14 @@
     ],
     "next_waves": [
       "vocabulary-harvest",
-      "coportal-view",
+      "cogbx-view",
       "cross-repo-index"
     ],
     "cadence": "opportunistic"
   },
   "gibber": {
-    "stub": "gib://coportal/registry?v=1",
-    "namespace": "coportal.registry",
+    "stub": "gib://cogibber/registry?v=1",
+    "namespace": "cogibber.registry",
     "style": "gibber-v1-seed"
   }
 }

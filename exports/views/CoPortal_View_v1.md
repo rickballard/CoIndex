@@ -1,4 +1,4 @@
-# CoIndex CoPortal v1 - Gibber registry view
+# CoIndex CoGbx v1 - CoGibber registry view
 
 - written_utc: 20251130T024150Z
 - registry_schema: CoPortalRegistry_v1
@@ -77,4 +77,5 @@ Seed pointees for the AcademiaShock non-truth index pilot.
 Describes NAS layout such as Z:\_AdviceBombs and Z:\_HP57 buckets for HP57 aware helpers.
 
 ---
+
 
