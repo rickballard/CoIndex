@@ -1,0 +1,74 @@
+{
+  "schema": "CoGibberRegistryEnvelope_v1",
+  "description": "Canonical CoBus/CoGibber envelope and vocab for registry messages (v1).",
+  "required_fields": [
+    "from_session_label",
+    "to_role",
+    "wave_id",
+    "intent",
+    "scope",
+    "sensitivity",
+    "ts_utc"
+  ],
+  "optional_fields": [
+    "to_session_label",
+    "not_before_utc",
+    "required_before_utc",
+    "priority",
+    "hp57_tier",
+    "notes"
+  ],
+  "enums": {
+    "intent": [
+      "advisory",
+      "status",
+      "query",
+      "command",
+      "handoff"
+    ],
+    "role": [
+      "co1-orchestrator",
+      "guardrail-session",
+      "product-session",
+      "support-session",
+      "advice-session",
+      "vendor-session"
+    ],
+    "priority": [
+      "experiment",
+      "normal",
+      "guardrail",
+      "hp57"
+    ],
+    "sensitivity": [
+      "public",
+      "hp57-adjacent",
+      "hp57-private"
+    ],
+    "usage_mode": [
+      "co1-orchestrator",
+      "assistant",
+      "indexer",
+      "cogbx-view",
+      "guardrail",
+      "hp57-lane"
+    ]
+  },
+  "example_envelope": {
+    "from_session_label": "CoIndex20251128",
+    "to_role": "co1-orchestrator",
+    "wave_id": "CoBus-20251130T050000Z-CoIndex-registry",
+    "intent": "advisory",
+    "scope": "CoIndex/exports/pointees/CoIndex_CoPortal_RegistrySeed_v1.json",
+    "sensitivity": "public",
+    "priority": "normal",
+    "ts_utc": "2025-11-30T05:00:00Z",
+    "notes": "CoGbx/CoGibber migration status advisory from CoIndex to Co1."
+  },
+  "constraints": [
+    "At-least-once delivery with idempotent handling via wave_id.",
+    "Do not couple CoBus semantics directly to any single vendor platform.",
+    "Treat git and on-repo receipts as the source of truth for orchestration state.",
+    "Schema must be forward-compatible: future agents may add fields without breaking v1 consumers."
+  ]
+}
