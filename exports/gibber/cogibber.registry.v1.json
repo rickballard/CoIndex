@@ -1,0 +1,37 @@
+{
+  "namespace": "cocivium.cogibber.registry",
+  "version": "v1",
+  "generated_utc": "20251130T235656Z",
+  "source_repo": "rickballard/CoIndex",
+  "description": "Seed CoGibber registry for CoIndex; to be expanded by Co1 full-index waves.",
+  "pointees": [
+    {
+      "repo": "rickballard/CoIndex",
+      "tags": [
+        "cogbx",
+        "viewer",
+        "registry",
+        "asset"
+      ],
+      "category": "viewer",
+      "label": "CoGbx registry viewer v1",
+      "id": "coindex.cogbx.viewer.v1",
+      "path": "exports/assets/CoGbx_RegistryViewer_v1.html",
+      "sensitivity": "public"
+    },
+    {
+      "repo": "rickballard/CoIndex",
+      "tags": [
+        "cogbx",
+        "cogibber",
+        "sites",
+        "cobus"
+      ],
+      "category": "strategy",
+      "label": "CoIndex – CoGbx / CoGibber site strategy v1",
+      "id": "coindex.cogbx.sitestrategy.v1",
+      "path": "docs/trove/CoIndex_CoGbx_SiteStrategy_v1.md",
+      "sensitivity": "public"
+    }
+  ]
+}
