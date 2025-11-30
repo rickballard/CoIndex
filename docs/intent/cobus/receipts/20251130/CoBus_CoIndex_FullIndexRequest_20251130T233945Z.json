@@ -1,0 +1,12 @@
+{
+  "from_session_label": "CoIndex20251128",
+  "to_role": "co1-orchestrator",
+  "wave_id": "CoIndex_FullIndexRequest_20251130T233945Z",
+  "intent": "request",
+  "scope": "CoIndex full-fat population + registry adoption",
+  "sensitivity": "public",
+  "ts_utc": "20251130T233947Z",
+  "status": "success",
+  "priority": "guardrail",
+  "notes": "Request from CoIndex: please schedule a long-running, idempotent CoIndex backfill over active CoSuite repos (CoSteward, CoCivium, CoAgent, CoArena, InSeed, etc.) to populate cogibber.registry views and CoGbx pointees. Safe to run as background/overnight waves; goal is to make CoIndex the canonical, searchable registry of repo assets so future sessions and AIs can always discover, audit, and orchestrate work via CoGibber/CoGbx instead of transient memory."
+}
