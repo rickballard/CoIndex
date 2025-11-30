@@ -6,7 +6,11 @@ $ErrorActionPreference = 'Stop'
 Set-StrictMode -Version Latest
 
 if (-not $RepoRoot) {
-    $RepoRoot = Split-Path -Parent $PSScriptRoot
+    if ($PSScriptRoot) {
+        $RepoRoot = Split-Path -Parent $PSScriptRoot
+    } else {
+        $RepoRoot = (Get-Location).Path
+    }
 }
 
 Set-Location $RepoRoot
@@ -17,11 +21,13 @@ $inboxRoot    = Join-Path $RepoRoot 'docs/intent/cobus/inbox'
 $receiptsRoot = Join-Path $RepoRoot 'docs/intent/cobus/receipts'
 
 $lines = [System.Collections.Generic.List[string]]::new()
-$lines.Add("# CoIndex CoBus status v1")
-$lines.Add("")
-$lines.Add("- generated_utc: $uts")
-$lines.Add("- repo_root: $RepoRoot")
-$lines.Add("")
+$lines.Add('# CoIndex CoBus status v1')
+$lines.Add('')
+$lines.Add('- generated_utc: {0}' -f $uts)
+$lines.Add('- repo_root: {0}' -f $RepoRoot)
+$lines.Add('')
+$lines.Add('## Inbox waves')
+$lines.Add('')
 
 function Load-JsonFile {
     param(
@@ -34,18 +40,15 @@ function Load-JsonFile {
     }
 }
 
-$lines.Add("## Inbox waves")
-$lines.Add("")
-
+# Inbox
 if (Test-Path -LiteralPath $inboxRoot) {
     $inboxFiles = Get-ChildItem -Path $inboxRoot -File -Recurse -ErrorAction SilentlyContinue
     if (-not $inboxFiles -or $inboxFiles.Count -eq 0) {
-        $lines.Add("_no inbox messages found_")
+        $lines.Add('* no inbox messages found')
     } else {
-        foreach ($f in $inboxFiles | Sort-Object FullName) {
+        foreach ($f in ($inboxFiles | Sort-Object FullName)) {
             $msg = Load-JsonFile -Path $f.FullName
             if (-not $msg) {
-                $lines.Add("* $($f.FullName)  - invalid JSON")
                 continue
             }
 
@@ -57,27 +60,29 @@ if (Test-Path -LiteralPath $inboxRoot) {
             $prio   = $msg.priority
             $sens   = $msg.sensitivity
 
-            $lines.Add( ("* [inbox] wave_id=`{0}` from=`{1}` to_role=`{2}` intent=`{3}` scope=`{4}` priority=`{5}` sensitivity=`{6}`" -f `
-                $wave, $from, $to, $intent, $scope, $prio, $sens) )
+            $text = ('* [inbox] wave_id=`{0}` from=`{1}` to_role=`{2}` intent=`{3}` scope=`{4}` priority=`{5}` sensitivity=`{6}`' -f `
+                $wave, $from, $to, $intent, $scope, $prio, $sens)
+            $lines.Add($text)
         }
     }
 } else {
-    $lines.Add("_inbox root not found: $inboxRoot_")
+    $msg = 'inbox root not found: {0}' -f $inboxRoot
+    $lines.Add($msg)
 }
 
-$lines.Add("")
-$lines.Add("## Receipts")
-$lines.Add("")
+$lines.Add('')
+$lines.Add('## Receipts')
+$lines.Add('')
 
+# Receipts
 if (Test-Path -LiteralPath $receiptsRoot) {
     $receiptFiles = Get-ChildItem -Path $receiptsRoot -File -Recurse -ErrorAction SilentlyContinue
     if (-not $receiptFiles -or $receiptFiles.Count -eq 0) {
-        $lines.Add("_no receipts found_")
+        $lines.Add('* no receipts found')
     } else {
-        foreach ($f in $receiptFiles | Sort-Object FullName) {
+        foreach ($f in ($receiptFiles | Sort-Object FullName)) {
             $msg = Load-JsonFile -Path $f.FullName
             if (-not $msg) {
-                $lines.Add("* $($f.FullName)  - invalid JSON")
                 continue
             }
 
@@ -89,20 +94,24 @@ if (Test-Path -LiteralPath $receiptsRoot) {
             $status = $msg.status
             $sens   = $msg.sensitivity
 
-            $lines.Add( ("* [receipt] wave_id=`{0}` status=`{1}` from=`{2}` to_role=`{3}` intent=`{4}` scope=`{5}` sensitivity=`{6}`" -f `
-                $wave, $status, $from, $to, $intent, $scope, $sens) )
+            $text = ('* [receipt] wave_id=`{0}` status=`{1}` from=`{2}` to_role=`{3}` intent=`{4}` scope=`{5}` sensitivity=`{6}`' -f `
+                $wave, $status, $from, $to, $intent, $scope, $sens)
+            $lines.Add($text)
         }
     }
 } else {
-    $lines.Add("_receipts root not found: $receiptsRoot_")
+    $msg = 'receipts root not found: {0}' -f $receiptsRoot
+    $lines.Add($msg)
 }
 
-$lines.Add("")
-$lines.Add("> Note: this status view is informational only. CoBus_BPOE_v1 remains canonical for rules and priorities.")
-$lines.Add("")
+$lines.Add('')
+$lines.Add('> Note: this status view is informational only. CoBus_BPOE_v1 remains canonical for rules and priorities.')
+$lines.Add('')
 
 $outDir  = Join-Path $RepoRoot 'docs/ops'
-$null = New-Item -ItemType Directory -Force -Path $outDir | Out-Null
+if (-not (Test-Path -LiteralPath $outDir)) {
+    New-Item -ItemType Directory -Force -Path $outDir | Out-Null
+}
 $outPath = Join-Path $outDir 'COBUS_STATUS_CoIndex_v1.md'
 
 $lines | Set-Content -LiteralPath $outPath -Encoding UTF8
