@@ -1,0 +1,136 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "CoGuard Case Schema v1",
+  "type": "object",
+  "required": [
+    "case_id",
+    "title",
+    "summary",
+    "categories",
+    "patterns",
+    "power_balance",
+    "harms",
+    "edge_controls",
+    "mitigations",
+    "sources",
+    "status"
+  ],
+  "properties": {
+    "case_id": {
+      "type": "string",
+      "description": "Stable case identifier, e.g. 2025_CoSpyMode_PhantomExecution_Case001"
+    },
+    "title": {
+      "type": "string",
+      "description": "Short human readable title"
+    },
+    "summary": {
+      "type": "string",
+      "description": "Neutral summary of what happened"
+    },
+    "categories": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": ["OverreachConfirmed", "SystemicFailure", "EdgeFailure"]
+      },
+      "description": "High level labels for the case"
+    },
+    "patterns": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "CoGuard pattern names such as CoSpyMode, CoPhantomExecution"
+    },
+    "power_balance": {
+      "type": "object",
+      "description": "Qualitative description of edge vs core power",
+      "properties": {
+        "edge_control_level": {
+          "type": "string",
+          "description": "e.g. none, weak, partial, strong"
+        },
+        "core_control_level": {
+          "type": "string",
+          "description": "e.g. none, weak, partial, strong"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": ["notes"]
+    },
+    "harms": {
+      "type": "array",
+      "items": {
+        "type": "string",
+        "enum": [
+          "privacy",
+          "autonomy",
+          "economic",
+          "safety",
+          "reputational",
+          "trust"
+        ]
+      },
+      "description": "Types of harm implicated in the case"
+    },
+    "edge_controls": {
+      "type": "object",
+      "description": "Edge level controls and how well they worked",
+      "properties": {
+        "controls_present": {
+          "type": "string",
+          "description": "Summary of existing controls"
+        },
+        "effectiveness": {
+          "type": "string",
+          "description": "e.g. worked, failed, misleading, absent"
+        },
+        "notes": {
+          "type": "string"
+        }
+      },
+      "required": ["effectiveness"]
+    },
+    "mitigations": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      },
+      "description": "Mitigation strategies and edge owned guardrail ideas"
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "type": {
+            "type": "string",
+            "description": "e.g. regulator, court, vendor, journalism, research"
+          },
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        },
+        "required": ["type", "title"]
+      },
+      "description": "Evidence and references used in the case"
+    },
+    "status": {
+      "type": "string",
+      "enum": ["Active", "Resolved", "Historical", "InDispute"],
+      "description": "Lifecycle state of the case"
+    },
+    "notes": {
+      "type": "string",
+      "description": "Optional freeform notes"
+    }
+  },
+  "additionalProperties": false
+}

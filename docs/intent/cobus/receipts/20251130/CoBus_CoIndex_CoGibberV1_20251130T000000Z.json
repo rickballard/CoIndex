@@ -1,0 +1,12 @@
+{
+  "from_session_label": "CoIndex20251128",
+  "to_role": "co1-orchestrator",
+  "wave_id": "CoIndex_CoGibberV1_20251130T000000Z",
+  "intent": "advisory",
+  "scope": "CoIndex CoGibber / CoGbx v1 state",
+  "sensitivity": "public",
+  "ts_utc": "20251130T080110Z",
+  "status": "success",
+  "priority": "normal",
+  "notes": "CoIndex registry, CoGbx view, CoBus lanes, and state trove v1 now on repo."
+}
