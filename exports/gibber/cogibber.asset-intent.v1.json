@@ -1,0 +1,8 @@
+{
+  ""namespace"": ""cocivium.cogibber.asset-intent"",
+  ""version"": ""v1"",
+  ""generated_utc"": ""20251201T211424Z"",
+  ""source_repo"": ""rickballard/CoIndex"",
+  ""description"": ""Overlay for per-asset evolutionary intent, keyed by pointee id. Entries intentionally empty in v1; future waves will populate."",
+  ""entries"": []
+}
