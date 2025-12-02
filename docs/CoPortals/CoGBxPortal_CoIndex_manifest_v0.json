@@ -1,0 +1,35 @@
+{
+  "portal_version": "0.1",
+  "portal_name": "CoGBxPortal.CoIndex",
+  "description": "AI-facing portal exposing CoGBx Intent Cards and CoGibber specs for CoCivium repos.",
+  "index": {
+    "cgbx_intents": [
+      {
+        "id": "CoGBx.Intent.EdgeContributorConsole.v0",
+        "path": "docs/CoGBx/examples/CoGBx_Intent_EdgeContributorConsole_v0.yaml"
+      }
+    ],
+    "cogibber_specs": [
+      {
+        "id": "CoGibber.Spec.EdgeContributorConsole.v0",
+        "path": "docs/CoGibber/EdgeContributorConsole_v0.gibber"
+      }
+    ]
+  },
+  "conventions": {
+    "cgbx_dir": "docs/CoGBx",
+    "cogibber_dir": "docs/CoGibber",
+    "portal_docs_dir": "docs/CoPortals"
+  },
+  "access_policy": {
+    "intended_consumers": [
+      "Co1",
+      "trusted external AIs",
+      "research tools"
+    ],
+    "notes": [
+      "Treat CoGBx Intent Cards as the canonical statement of human intent.",
+      "Allow CoGibber specs to change only when a related CoGBx Intent is updated."
+    ]
+  }
+}
