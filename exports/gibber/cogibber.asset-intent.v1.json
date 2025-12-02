@@ -28,7 +28,33 @@
       "steward_trail": [
         "seeded-by:CoIndex_CoEvoSpawn_v1"
       ],
-      "last_updated_utc": "20251202T011213Z"
+      "last_updated_utc": "20251202T034339Z"
+    },
+    {
+      "id": "coindex.cogbx.viewer.v1",
+      "aspirations": "Be the primary registry lens for humans + AIs; support richer filters, facets, and cross-repo jump links without sacrificing simplicity.",
+      "evo_hooks": {
+        "suggested_views": [
+          "CoGbx_RegistryViewer",
+          "CoPortal panel:CoIndexRegistry"
+        ],
+        "keywords": [
+          "viewer",
+          "registry-lens",
+          "coindex",
+          "cogbx",
+          "ui"
+        ],
+        "priorities": [
+          "ux-polish",
+          "filtering",
+          "deep-linking"
+        ]
+      },
+      "steward_trail": [
+        "seeded-by:CoIndex_CoEvoSpawn_v1"
+      ],
+      "last_updated_utc": "20251202T034339Z"
     }
   ]
 }
