@@ -1,8 +1,34 @@
 {
-  ""namespace"": ""cocivium.cogibber.asset-intent"",
-  ""version"": ""v1"",
-  ""generated_utc"": ""20251201T211424Z"",
-  ""source_repo"": ""rickballard/CoIndex"",
-  ""description"": ""Overlay for per-asset evolutionary intent, keyed by pointee id. Entries intentionally empty in v1; future waves will populate."",
-  ""entries"": []
+  "namespace": "cocivium.cogibber.asset-intent",
+  "version": "v1",
+  "generated_utc": "20251202T011212Z",
+  "source_repo": "rickballard/CoIndex",
+  "description": "Overlay for per-asset evolutionary intent, keyed by pointee id.",
+  "entries": [
+    {
+      "id": "rickballard.coindex.exports.gibber.cogibber.registry.v1.json",
+      "aspirations": "Remain the canonical, minimal registry spine; become more expressive via overlays and views without losing simplicity.",
+      "evo_hooks": {
+        "suggested_views": [
+          "CoGbx_RegistryViewer",
+          "GIBindex registry facet"
+        ],
+        "keywords": [
+          "registry",
+          "spine",
+          "coindex",
+          "cogibber",
+          "cogbx"
+        ],
+        "priorities": [
+          "preserve-integrity",
+          "improve-queryability"
+        ]
+      },
+      "steward_trail": [
+        "seeded-by:CoIndex_CoEvoSpawn_v1"
+      ],
+      "last_updated_utc": "20251202T011213Z"
+    }
+  ]
 }

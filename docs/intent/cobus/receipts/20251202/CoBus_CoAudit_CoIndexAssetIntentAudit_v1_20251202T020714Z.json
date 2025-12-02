@@ -1,0 +1,26 @@
+{
+  "from_session_label": "CoAudit_CoIndexAssetIntentAudit_Local",
+  "to_role": "co-steward",
+  "wave_id": "CoAudit_CoIndexAssetIntentAudit_v1_20251202T020714Z",
+  "intent": "audit",
+  "scope": "CoIndex asset-intent overlay integrity v1",
+  "status": "ok",
+  "repo": "rickballard/CoIndex",
+  "created_utc": "20251202T020714Z",
+  "counts": {
+    "pointees_total": 3048,
+    "intent_entries_total": 1,
+    "intent_ids_unique": 1,
+    "intent_ids_duplicate": 0,
+    "orphans_total": 0,
+    "pointees_with_intent": 1
+  },
+  "findings": [
+    "Asset-intent overlay parsed from C:\\Users\\Chris\\Documents\\GitHub\\CoIndex\\exports\\gibber\\cogibber.asset-intent.v1.json.",
+    "Duplicates or orphans are treated as warnings in v1; future waves may escalate depending on sensitivity and BPOE."
+  ],
+  "details": {
+    "duplicate_ids": [],
+    "orphans": []
+  }
+}
