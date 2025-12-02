@@ -1,0 +1,14 @@
+{
+  "meta": {
+    "version": "1.0",
+    "updated_at_utc": "20251202T153649Z"
+  },
+  "cases": [
+    {
+      "id": "2018_CambridgeAnalytica_Facebook_PoliticalProfiling_Case001",
+      "severity_score": 28,
+      "path": "cases/2018_CambridgeAnalytica_Facebook_PoliticalProfiling_Case001.md",
+      "priority_band": "P0"
+    }
+  ]
+}
