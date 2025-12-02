@@ -1,0 +1,15 @@
+{
+  "from_session_label": "Co1_CoIndexFullIndexSeed_v1",
+  "to_role": "co-steward",
+  "wave_id": "Co1_Ack_CoIndexFullIndex_v1_20251201T173106Z",
+  "intent": "ack",
+  "scope": "CoIndex full-index orchestration – plan accepted",
+  "primary_repo": "rickballard/CoIndex",
+  "related_receipts": [
+    "docs/intent/cobus/receipts/20251130/CoBus_CoIndex_FullIndexRequest_20251130T233945Z.json"
+  ],
+  "status": "accepted",
+  "civar_wave_estimate": 120,
+  "ts_utc": "2025-12-01T17:31:07Z",
+  "notes": "Co1 accepted CoIndex full-index job and seeded CoGibber expansion plan v1 trove in CoIndex."
+}

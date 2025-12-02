@@ -1,0 +1,12 @@
+{
+  "from_session_label": "CoIndex20251128",
+  "to_role": "co1-orchestrator",
+  "wave_id": "CoIndex_CoGbxViewer_Assets_v1_20251130T224103Z",
+  "intent": "assets",
+  "scope": "CoIndex CoGbx registry viewer v1 asset",
+  "sensitivity": "public",
+  "ts_utc": "20251130T224109Z",
+  "status": "success",
+  "priority": "normal",
+  "notes": "CoGbx registry viewer v1 written to exports/assets/CoGbx_RegistryViewer_v1.html."
+}

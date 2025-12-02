@@ -1,0 +1,12 @@
+{
+  "from_session_label": "CoIndex20251128",
+  "to_role": "co1-orchestrator",
+  "wave_id": "CoIndex_CoGbxSiteStrategy_20251130T220650Z",
+  "intent": "advisory",
+  "scope": "CoIndex CoGbx / CoGibber site strategy v1",
+  "sensitivity": "public",
+  "ts_utc": "20251130T220656Z",
+  "status": "success",
+  "priority": "normal",
+  "notes": "CoIndex CoGbx / CoGibber site strategy v1 trove written: docs/trove/CoIndex_CoGbx_SiteStrategy_v1.md"
+}

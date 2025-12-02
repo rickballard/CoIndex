@@ -1,0 +1,36 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "CoGibber Registry v1",
+  "type": "object",
+  "required": ["namespace", "version", "generated_utc", "source_repo", "pointees"],
+  "properties": {
+    "namespace": { "type": "string" },
+    "version":   { "type": "string" },
+    "generated_utc": { "type": "string" },
+    "source_repo": { "type": "string" },
+    "description": { "type": "string" },
+    "pointees": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "repo", "path"],
+        "properties": {
+          "id":          { "type": "string" },
+          "label":       { "type": "string" },
+          "repo":        { "type": "string" },
+          "path":        { "type": "string" },
+          "category":    { "type": "string" },
+          "tags": {
+            "type": "array",
+            "items": { "type": "string" }
+          },
+          "sensitivity": { "type": "string" },
+          "sha256":      { "type": "string" },
+          "size_bytes":  { "type": "integer" }
+        },
+        "additionalProperties": true
+      }
+    }
+  },
+  "additionalProperties": true
+}

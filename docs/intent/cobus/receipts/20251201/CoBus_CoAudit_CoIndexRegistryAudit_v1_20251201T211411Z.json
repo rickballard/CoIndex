@@ -1,0 +1,38 @@
+{
+  "from_session_label": "CoAudit_CoIndexRegistryAudit_Local",
+  "to_role": "co-steward",
+  "wave_id": "CoAudit_CoIndexRegistryAudit_v1_20251201T211411Z",
+  "intent": "audit",
+  "scope": "CoIndex registry integrity v1",
+  "status": "ok",
+  "repo": "rickballard/CoIndex",
+  "created_utc": "20251201T211411Z",
+  "counts": {
+    "pointees_total": 3048,
+    "repos_seen": 4,
+    "repos_checked": 4,
+    "missing_total": 0
+  },
+  "per_repo": {
+    "rickballard/CoAudit": {
+      "count_total": 61,
+      "count_missing": 0
+    },
+    "rickballard/CoSteward": {
+      "count_total": 318,
+      "count_missing": 0
+    },
+    "rickballard/CoIndex": {
+      "count_total": 99,
+      "count_missing": 0
+    },
+    "rickballard/CoCivium": {
+      "count_total": 2570,
+      "count_missing": 0
+    }
+  },
+  "findings": [
+    "Registry parsed and inspected from C:\\Users\\Chris\\Documents\\GitHub\\CoIndex\\exports\\gibber\\cogibber.registry.v1.json.",
+    "Missing paths are warnings; future versions may treat some as critical depending on sensitivity."
+  ]
+}

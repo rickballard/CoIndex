@@ -1,0 +1,21 @@
+{
+  "from_session_label": "CoIndex20251128",
+  "to_role": "co1-orchestrator",
+  "wave_id": "CoIndex_FullIndexWave_v1_20251201T153140Z",
+  "intent": "index-wave",
+  "scope": "CoIndex full multi-repo registry population v1",
+  "status": "ok",
+  "repo": "rickballard/CoIndex",
+  "created_utc": "20251201T153140Z",
+  "counts": {
+    "repos_scanned": 4,
+    "files_seen": 3048,
+    "pointees_total": 3048,
+    "pointees_added": 3046
+  },
+  "notes": [
+    "Huge full-index wave executed locally from CoIndex.",
+    "Registry entries keyed by (repo,path); existing entries preserved.",
+    "Health helper run for CoIndex pointees; CoAudit expected to extend checks cross-repo."
+  ]
+}
