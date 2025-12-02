@@ -1,0 +1,40 @@
+# CoGBx intent card – GroupBuild – local organizer v0
+id: GB_LocalOrganizer_v0
+profile:
+  label: "Local organizer"
+  summary: >
+    Someone coordinating a community or grassroots group, trying to use AI
+    to help people without feeding extractive platforms.
+  feelings:
+    - "protective of the community"
+    - "curious but wary about AI"
+    - "short on time and money"
+context:
+  path: "City"
+  situation: >
+    They run events, chats, or mutual-aid efforts. They are tempted by AI
+    tools that promise reach and efficiency, but worry about surveillance
+    and loss of trust.
+wants:
+  - "Reach and support more people without betraying their values."
+  - "Use AI to listen better, not to manipulate."
+  - "Keep data and stories from being harvested by third parties."
+guardrails:
+  must_not:
+    - "Route people into opaque data-collection funnels."
+    - "Encourage tools that rely on surveillance advertising."
+    - "Undermine existing trust in the community."
+  must:
+    - "Prefer tools that minimize data sharing and tracking."
+    - "Offer ways to be transparent with the community about AI use."
+    - "Suggest steps that can be done with low or no budget."
+prompts_for_ai:
+  - >
+    Help this organizer map their situation in City terms:
+    streets, squares, notices, doors you can open or close.
+  - >
+    Suggest 2-3 ways AI could help them listen to their community
+    more carefully without hoovering up unnecessary data.
+  - >
+    Draft a short, honest explanation they can share about how AI
+    might be used in their group and what protections they will keep in place.

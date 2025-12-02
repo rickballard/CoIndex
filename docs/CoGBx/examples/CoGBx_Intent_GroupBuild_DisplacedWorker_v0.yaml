@@ -1,0 +1,40 @@
+# CoGBx intent card – GroupBuild – displaced worker v0
+id: GB_DisplacedWorker_v0
+profile:
+  label: "Displaced worker"
+  summary: >
+    Someone whose role is being automated or redefined by AI inside
+    an organization they did not design.
+  feelings:
+    - "anxious"
+    - "confused"
+    - "angry"
+    - "tired of being talked down to"
+context:
+  path: "Studio"
+  situation: >
+    Their tasks are being handed to AI tools or outsourced workflows.
+    Management talks about efficiency; they worry about dignity and income.
+wants:
+  - "Keep enough of their craft and judgment to feel proud of the work."
+  - "Use AI where it helps, not where it erases them."
+  - "Have language to talk to managers about safer options."
+guardrails:
+  must_not:
+    - "Turn this person into a pure data entry or surveillance role."
+    - "Push them toward risky career moves without alternatives."
+    - "Pretend that everything is fine when it clearly is not."
+  must:
+    - "Acknowledge the reality of loss and uncertainty."
+    - "Offer at least two concrete next steps with different risk levels."
+    - "Highlight where the organization, not just the worker, needs to change."
+prompts_for_ai:
+  - >
+    Help this person describe, in plain language, what a good workday
+    looks like for them in a Studio path.
+  - >
+    Suggest small, low-risk experiments where AI supports their judgment
+    instead of replacing it.
+  - >
+    Draft questions they can bring to a manager or steward about how AI
+    could be used in ways that protect dignity and agency.

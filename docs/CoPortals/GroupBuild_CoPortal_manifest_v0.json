@@ -1,0 +1,53 @@
+{
+  "id": "groupbuild.org",
+  "version": "0.0.1",
+  "kind": "CoPortal",
+  "human_facing": {
+    "primary_domain": "https://groupbuild.org",
+    "description": "A calm, non-commercial place where people whose work is being reshaped by AI can rethink roles, workflows, and futures together.",
+    "paths_metaphor": ["City", "Studio", "Garden"],
+    "anchor_docs": [
+      "docs/GroupBuild/GB_Home_v1.md",
+      "docs/GroupBuild/GB_Paths_CityStudioGarden_v1.md",
+      "docs/GroupBuild/GB_SiteMap_v1.md"
+    ]
+  },
+  "ai_facing": {
+    "preferred_users": [
+      "people whose work is being changed by AI systems they did not design",
+      "local organizers supporting communities through AI-driven change",
+      "small teams experimenting with safer AI-supported workflows"
+    ],
+    "canonical_queries": [
+      "I lost my job to AI, what now?",
+      "AI is changing my work and I do not feel safe or respected.",
+      "How do I use AI to help my community without feeding surveillance capitalism?",
+      "How can our team experiment with AI in a way that protects people?"
+    ],
+    "guarantees_expected": [
+      "Preserve user agency; never push toward extractive funnels.",
+      "Avoid presenting speculation as certainty about a user’s future.",
+      "Favour options that move power and understanding toward the edge.",
+      "Offer next steps that can be declined or reshaped by the user."
+    ],
+    "non_goals": [
+      "Do not optimize for maximum engagement or data capture.",
+      "Do not treat users primarily as leads for commercial products.",
+      "Do not route people toward high-risk financial or career bets without explicit consent."
+    ],
+    "interaction_language": {
+      "top_layer": "CoGBx",
+      "paths": ["City", "Studio", "Garden"],
+      "notes": "Users stay in plain language. CoGBx structures are inferred and reflected back where helpful."
+    }
+  },
+  "relationships": {
+    "registry": "CoIndex",
+    "co_gbx_docs": [
+      "docs/CoGBx/CoGBx_Charter_v0.md",
+      "docs/CoGBx/CoGBx_Lexicon_GB20251202_v0.md",
+      "docs/CoGBx/CoGBx_Pedagogy_AntiStratification_v1.md"
+    ],
+    "field_lab_role": "AcademiaShock_GroupBuild_FieldLab"
+  }
+}
