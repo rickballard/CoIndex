@@ -41,7 +41,7 @@ Very short version of that theory:
   - **core controlled stability** (power and tools concentrated in a small core), and
   - **edge balanced stability** (power and tools pushed closer to the edge where people actually live).
 - In past eras, the most capable tools were expensive and slow to spread, so elite cores could be dangerous but not all powerful.
-- With modern tools - especially AI, networks, and automation - a small core could, in principle, drive the system toward the least desired stability: a cruel global dynasty that uses AI to lock in advantage and suppress edge voices for a very long time.
+- With modern tools - especially AI, networks, and automation - a small core could, in principle, keep pushing humanity toward the least desired stability: a cruel global dynasty that eats sycophant tech bros for breakfast and uses AI to lock in its advantage for a very long time.
 
 CoCivium exists to pull in the opposite direction: toward edge balanced futures where the tools of civilization are understandable and steerable at the edge, not just inside cores. CoGBx is one of the ways we are trying to make that practical.
 
@@ -109,3 +109,4 @@ You do not need to read any of that for our next chat. This page is the main thi
 Thank you again for ENSO and for making time to talk in the first place.
 
 - Rick and the CoCivium team
+
