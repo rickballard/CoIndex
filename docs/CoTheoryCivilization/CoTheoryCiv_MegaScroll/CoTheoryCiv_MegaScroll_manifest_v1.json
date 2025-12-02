@@ -1,0 +1,67 @@
+{
+  "id": "CoTheoryCiv_MegaScroll_v1",
+  "version": "1.0.0",
+  "description": "Megascroll segments and views for CoTheory of Civilization.",
+  "segments": [
+    {
+      "id": "CTC_S1_Attractors_v1",
+      "file": "segments/CTC_S1_Attractors_v1.md",
+      "title": "Attractors: core controlled vs edge balanced futures",
+      "role": "theory",
+      "emotional_job": "alarm",
+      "status": "stub_v1"
+    },
+    {
+      "id": "CTC_S2_EnsuredLayers_v1",
+      "file": "segments/CTC_S2_EnsuredLayers_v1.md",
+      "title": "Ensured layers and what you may safely assume",
+      "role": "method",
+      "emotional_job": "resolve",
+      "status": "stub_v1"
+    },
+    {
+      "id": "CTC_S3_FieldLab_GroupBuild_v1",
+      "file": "segments/CTC_S3_FieldLab_GroupBuild_v1.md",
+      "title": "GroupBuild as field lab in the attractor landscape",
+      "role": "field_lab",
+      "emotional_job": "hope",
+      "status": "stub_v1"
+    },
+    {
+      "id": "CTC_S4_ChildrenOfTheNewWorld_v1",
+      "file": "segments/CTC_S4_ChildrenOfTheNewWorld_v1.md",
+      "title": "Children of the new world",
+      "role": "story",
+      "emotional_job": "grief_and_love",
+      "status": "stub_v1"
+    }
+  ],
+  "views": {
+    "full_megascroll": [
+      "CTC_S1_Attractors_v1",
+      "CTC_S2_EnsuredLayers_v1",
+      "CTC_S3_FieldLab_GroupBuild_v1",
+      "CTC_S4_ChildrenOfTheNewWorld_v1"
+    ],
+    "academia_excerpt": [
+      "CTC_S1_Attractors_v1",
+      "CTC_S2_EnsuredLayers_v1"
+    ],
+    "field_lab_excerpt": [
+      "CTC_S3_FieldLab_GroupBuild_v1",
+      "CTC_S2_EnsuredLayers_v1"
+    ],
+    "children_future_excerpt": [
+      "CTC_S4_ChildrenOfTheNewWorld_v1",
+      "CTC_S1_Attractors_v1"
+    ]
+  },
+  "notes": {
+    "intent": "Allow helpers like Co1 and megascroller tools to assemble scrolls for CoCivium.org, preprint servers, media pieces, and teaching materials from a common set of segments.",
+    "future_work": [
+      "Add more segments as CoTheoryCiv expands.",
+      "Record links from segments to specific Academia Shock papers and CoCore entries.",
+      "Track review status and co authorship in a separate registry if needed."
+    ]
+  }
+}

@@ -226,3 +226,20 @@ Boxes do not have to be ticked in a single sitting.
       - feel that this is a calm, non-extractive place.  
 
 Future versions of this file (v3, v4, …) should **update** rather than replace it so the evolution path remains visible.
+---
+
+## Wave log update (MW_CoTheoryCiv_SchemaAndBasket_v1_20251202)
+
+On 2025-12-02 this GB session added:
+
+- CoTheoryCiv_Schema_AndNaming_v1.md (declaring CoTheoryCiv as umbrella,
+  Academia Shock as a series under it, and GroupBuild as the primary field lab).
+- CoTheoryCiv_MegaScroll basket directory with initial segments:
+  - CTC_S1_Attractors_v1.md
+  - CTC_S2_EnsuredLayers_v1.md
+  - CTC_S3_FieldLab_GroupBuild_v1.md
+  - CTC_S4_ChildrenOfTheNewWorld_v1.md
+- CoTheoryCiv_MegaScroll_manifest_v1.json plus editorial notes.
+
+This satisfies the "CoTheoryCiv megascroll basket" checklist item at stub level
+and gives Co1 and future helpers a clean assembly rail for public scrolls.
