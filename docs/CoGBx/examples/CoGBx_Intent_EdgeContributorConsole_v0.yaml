@@ -1,0 +1,43 @@
+cgbx_version: "0.1"
+id: "CoGBx.Intent.EdgeContributorConsole.v0"
+
+space:
+  city: "CoCivium"
+  district: "CoAgent"
+  building: "Edge Contributor Console"
+  room: "Home"
+
+show:
+  name: "Contributor Home Show"
+  cast:
+    - "new edge contributor"
+    - "returning contributor"
+    - "AI guide"
+  scenes:
+    - "User lands in the Home room with three clear options: Learn, Help, Explore."
+    - "AI guide offers a short orientation and one suggested next step."
+    - "User chooses an option; AI shows at most three tiles, each with a one-line explanation."
+    - "User can always jump back Home in one click."
+
+promise:
+  emotional: "You feel safe, not stupid. You always know one good next step."
+  practical: "Within three clicks, you either learn something concrete, help with something small, or explore without breaking anything."
+
+guardrails:
+  must_never:
+    - "Show error messages full of jargon or stack traces."
+    - "Present irreversible actions without clear, friendly confirmation."
+    - "Hide important choices in dense text or complex menus."
+  must_always:
+    - "Offer an I feel lost escape that summons the AI guide in plain language."
+    - "Use consistent labels and icons for navigation and actions."
+    - "Make it obvious how to get back Home."
+
+garden:
+  role: "seed"
+  bed: "beta for invited edge contributors"
+  season: "initial CoGBx and CoGibber pilot"
+  success_signals:
+    - "Most first-time visitors click at least one of Learn, Help, or Explore."
+    - "Self-reported overwhelm is below an agreed threshold."
+    - "A meaningful fraction of contributors return at least once the next week."

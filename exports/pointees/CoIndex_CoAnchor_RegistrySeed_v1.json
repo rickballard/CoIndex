@@ -1,0 +1,23 @@
+{
+  "schema_version": "CoGbxRegistry_v1",
+  "items": [
+    {
+      "id": "coanchor.quickstart.generic.v2",
+      "label": "CoAnchor – Session Quickstart (generic v2)",
+      "kind": "helper",
+      "status": "live",
+      "priority": "normal",
+      "tags": [
+        "helper",
+        "quickstart",
+        "product",
+        "free-to-world"
+      ],
+      "pointers": [
+        "CoSteward/docs/onramps/CoAnchor_Quickstart_Generic_v2.md",
+        "CoCache/docs/products/CoAnchor_Quickstart_ProductCard_v1.md"
+      ],
+      "notes": "Generic-first session starter; advanced CoSuite rails optional."
+    }
+  ]
+}

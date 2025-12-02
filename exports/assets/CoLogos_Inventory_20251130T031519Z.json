@@ -1,0 +1,4972 @@
+[
+  {
+    "Repo": "_import_scans",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "_import_scans\\Civium_20250820_014135\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "_import_scans",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "_import_scans\\Civium_20250820_014135\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "_import_scans",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "_import_scans\\Civium_20250820_014135\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "_import_scans",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "_import_scans\\Civium_20250820_014135\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "_import_scans",
+    "Name": "Logo_v1.png",
+    "RelPath": "_import_scans\\Civium_20250820_014135\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_status_amber.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_status_amber.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_status_gray.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_status_gray.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_status_green.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_status_green.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_status_red.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_status_red.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "7742cf74-8e06-4274-9a9b-849a38fc964c.png",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\7742cf74-8e06-4274-9a9b-849a38fc964c.png",
+    "SizeKB": 326.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cea73f29-eb48-49ff-8540-b35c569d1e96.png",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\cea73f29-eb48-49ff-8540-b35c569d1e96.png",
+    "SizeKB": 334.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "heartbeat.fsMs.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\metrics\\heartbeat.fsMs.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "OldeVillagePeople.png",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\OldeVillagePeople.png",
+    "SizeKB": 1629.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "quad.svg",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cadi\\docs\\assets\\quad.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "quadrant-plot.svg",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cpda\\docs\\assets\\quadrant-plot.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "radar-readiness.svg",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cpda\\docs\\assets\\radar-readiness.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "radar.svg",
+    "RelPath": "$GH\\CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cadi\\docs\\assets\\radar.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_amber_tm.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_amber_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_amber.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_amber.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_gray_tm.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_gray_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_gray.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_gray.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_green_tm.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_green_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_green.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_green.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_red_tm.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_red_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "cocivium_logo_red.svg",
+    "RelPath": "$GH\\CoCache\\docs\\assets\\brand\\cocivium_logo_red.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "InSeed_Logo_Shadow.png",
+    "RelPath": "$GH\\CoCache\\advice-bombs\\extracted\\Desktop_Roundup_20251017_110528\\InSeed_Logo_Shadow.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "$GH",
+    "Name": "InSeed_Logo_Shadow.png",
+    "RelPath": "$GH\\CoCache\\advice-bombs\\extracted\\Desktop_Roundup_20251017_105715\\InSeed_Logo_Shadow.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "after_mk.PNG",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\load_preset\\after_mk.PNG",
+    "SizeKB": 261.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi_320x126.png",
+    "RelPath": "AmpliPi\\amplipi\\display\\imgs\\amplipi_320x126.png",
+    "SizeKB": 11.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi_banner_black.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\amplipi_banner_black.png",
+    "SizeKB": 57.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi_banner_white.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\amplipi_banner_white.png",
+    "SizeKB": 82.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "api_addstream.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\api_addstream.jpg",
+    "SizeKB": 35.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "api.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\api.jpg",
+    "SizeKB": 11.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "backpanel.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\backpanel.png",
+    "SizeKB": 1649.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "before_pst_expand.PNG",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\load_preset\\before_pst_expand.PNG",
+    "SizeKB": 314.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "clone_folder.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\clone_folder.jpg",
+    "SizeKB": 9.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "controller_boards_diagram.drawio.svg",
+    "RelPath": "AmpliPi\\hw\\diagrams\\controller_boards_diagram.drawio.svg",
+    "SizeKB": 156.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "debug_config1.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\debug_config1.jpg",
+    "SizeKB": 97.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "debug_config2.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\debug_config2.jpg",
+    "SizeKB": 112.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "debug_config3.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\debug_config3.jpg",
+    "SizeKB": 106.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "debug_config4.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\debug_config4.jpg",
+    "SizeKB": 105.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "disconnected.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\disconnected.png",
+    "SizeKB": 4.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "dlna.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\dlna.png",
+    "SizeKB": 44.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "expander_boards_diagram.drawio.svg",
+    "RelPath": "AmpliPi\\hw\\diagrams\\expander_boards_diagram.drawio.svg",
+    "SizeKB": 129.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "extension.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\extension.jpg",
+    "SizeKB": 14.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fa-regular-400.svg",
+    "RelPath": "AmpliPi\\web\\static\\css\\libs\\font-awesome\\webfonts\\fa-regular-400.svg",
+    "SizeKB": 142.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fa-regular-400.svg",
+    "RelPath": "AmpliPi\\amplipi\\updater\\static\\css\\libs\\font-awesome\\webfonts\\fa-regular-400.svg",
+    "SizeKB": 142.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fa-solid-900.svg",
+    "RelPath": "AmpliPi\\web\\static\\css\\libs\\font-awesome\\webfonts\\fa-solid-900.svg",
+    "SizeKB": 901.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fa-solid-900.svg",
+    "RelPath": "AmpliPi\\amplipi\\updater\\static\\css\\libs\\font-awesome\\webfonts\\fa-solid-900.svg",
+    "SizeKB": 901.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fmradio.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\fmradio.png",
+    "SizeKB": 10.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "git_clone.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\git_clone.jpg",
+    "SizeKB": 17.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "green_button.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\green_button.jpg",
+    "SizeKB": 11.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0030.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0030.png",
+    "SizeKB": 340.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0031.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0031.png",
+    "SizeKB": 324.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0032.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0032.png",
+    "SizeKB": 324.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0033.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0033.png",
+    "SizeKB": 324.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0034.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0034.png",
+    "SizeKB": 324.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0035.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0035.png",
+    "SizeKB": 324.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0036.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0036.png",
+    "SizeKB": 324.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0037.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0037.png",
+    "SizeKB": 324.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0038.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0038.png",
+    "SizeKB": 324.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0039.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\expand_group_and_change_vols\\IMG_0039.png",
+    "SizeKB": 220.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0048.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0048.png",
+    "SizeKB": 230.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0049.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0049.png",
+    "SizeKB": 273.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0050.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0050.png",
+    "SizeKB": 268.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0051.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0051.png",
+    "SizeKB": 259.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0052.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0052.png",
+    "SizeKB": 250.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0053.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0053.png",
+    "SizeKB": 229.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0054.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\change_source\\IMG_0054.png",
+    "SizeKB": 297.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0057.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0057.png",
+    "SizeKB": 313.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0058.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0058.png",
+    "SizeKB": 224.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0059.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0059.png",
+    "SizeKB": 232.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0060.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0060.png",
+    "SizeKB": 238.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0061.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0061.png",
+    "SizeKB": 311.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0062.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0062.png",
+    "SizeKB": 307.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "IMG_0063.png",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\add_group_to_source\\IMG_0063.png",
+    "SizeKB": 311.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "internals_photo_labelled.drawio.svg",
+    "RelPath": "AmpliPi\\hw\\diagrams\\internals_photo_labelled.drawio.svg",
+    "SizeKB": 1425.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "micronova_320x240.png",
+    "RelPath": "AmpliPi\\amplipi\\display\\imgs\\micronova_320x240.png",
+    "SizeKB": 13.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "micronova-square.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\micronova-square.png",
+    "SizeKB": 52.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "micronova-white-on-black.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\micronova-white-on-black.png",
+    "SizeKB": 26.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "pandora.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\pandora.png",
+    "SizeKB": 20.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "pane.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\pane.jpg",
+    "SizeKB": 17.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "pi_folders.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\pi_folders.jpg",
+    "SizeKB": 15.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "Plexamp_Auth_button.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\Plexamp_Auth_button.jpg",
+    "SizeKB": 33.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "Plexamp_sign_in.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\Plexamp_sign_in.jpg",
+    "SizeKB": 50.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "plexamp.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\plexamp.png",
+    "SizeKB": 70.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "PreampIDE_Options.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\PreampIDE_Options.jpg",
+    "SizeKB": 10.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "pst_check_done.PNG",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\load_preset\\pst_check_done.PNG",
+    "SizeKB": 364.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "pst_done_update.PNG",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\load_preset\\pst_done_update.PNG",
+    "SizeKB": 364.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "pst_expand.PNG",
+    "RelPath": "AmpliPi\\docs\\imgs\\app_demos\\load_preset\\pst_expand.PNG",
+    "SizeKB": 357.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "rca_inputs.jpg",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\rca_inputs.jpg",
+    "SizeKB": 7.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "rca_inputs.svg",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\rca_inputs.svg",
+    "SizeKB": 3.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "rear_panel_labelled.drawio.svg",
+    "RelPath": "AmpliPi\\hw\\diagrams\\rear_panel_labelled.drawio.svg",
+    "SizeKB": 2265.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "repo_in_vscode.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\repo_in_vscode.jpg",
+    "SizeKB": 26.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "reset.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\reset.jpg",
+    "SizeKB": 13.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "rest_api_overview.svg",
+    "RelPath": "AmpliPi\\docs\\imgs\\rest_api_overview.svg",
+    "SizeKB": 362.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "shairport.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\shairport.png",
+    "SizeKB": 7.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "signal_diagram.drawio.svg",
+    "RelPath": "AmpliPi\\hw\\diagrams\\signal_diagram.drawio.svg",
+    "SizeKB": 4121.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "speaker_wire_to_pheonix.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\speaker_wire_to_pheonix.jpg",
+    "SizeKB": 278.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "spotify.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\spotify.png",
+    "SizeKB": 13.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "ssh_plusadd.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\ssh_plusadd.jpg",
+    "SizeKB": 11.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "terminal_repo.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\terminal_repo.jpg",
+    "SizeKB": 5.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "try.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\try.jpg",
+    "SizeKB": 10.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "vs_explorer.jpg",
+    "RelPath": "AmpliPi\\docs\\imgs\\remote_dev\\vs_explorer.jpg",
+    "SizeKB": 23.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "zone_speaker_connection.svg",
+    "RelPath": "AmpliPi\\docs\\imgs\\zone_speaker_connection.svg",
+    "SizeKB": 8.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi_icon_black.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\amplipi_icon_black.png",
+    "SizeKB": 62.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi_icon_white.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\amplipi_icon_white.png",
+    "SizeKB": 86.9,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi-small-logo.png",
+    "RelPath": "AmpliPi\\amplipi\\updater\\static\\imgs\\amplipi-small-logo.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "amplipi-small-logo.png",
+    "RelPath": "AmpliPi\\web\\static\\imgs\\amplipi-small-logo.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fa-brands-400.svg",
+    "RelPath": "AmpliPi\\web\\static\\css\\libs\\font-awesome\\webfonts\\fa-brands-400.svg",
+    "SizeKB": 733.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "AmpliPi",
+    "Name": "fa-brands-400.svg",
+    "RelPath": "AmpliPi\\amplipi\\updater\\static\\css\\libs\\font-awesome\\webfonts\\fa-brands-400.svg",
+    "SizeKB": 733.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Civium",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium",
+    "Name": "Logo_v1.png",
+    "RelPath": "Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Civium-Constitution",
+    "Name": "connectome_repo_map_v0.1.png",
+    "RelPath": "Civium-Constitution\\meta\\deprecated\\origins\\meta\\connectome_repo_map_v0.1.png",
+    "SizeKB": 1249.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium-Constitution",
+    "Name": "scroll_dependency_map.png",
+    "RelPath": "Civium-Constitution\\maps\\scroll_dependency_map.png",
+    "SizeKB": 278.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium-Constitution",
+    "Name": "scroll_dependency_map.png",
+    "RelPath": "Civium-Constitution\\meta\\deprecated\\scrolls\\scroll_dependency_map.png",
+    "SizeKB": 278.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Civium-Constitution",
+    "Name": "thinking_constitution.svg",
+    "RelPath": "Civium-Constitution\\maps\\thinking_constitution.svg",
+    "SizeKB": 0.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoAgent",
+    "Name": "favicon.ico",
+    "RelPath": "CoAgent\\app\\assets\\favicon.ico",
+    "SizeKB": 0.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoAgent",
+    "Name": "logo.png",
+    "RelPath": "CoAgent\\app\\assets\\logo.png",
+    "SizeKB": 0.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_status_amber.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_status_amber.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_status_gray.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_status_gray.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_status_green.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_status_green.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_status_red.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_status_red.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "7742cf74-8e06-4274-9a9b-849a38fc964c.png",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\7742cf74-8e06-4274-9a9b-849a38fc964c.png",
+    "SizeKB": 326.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cea73f29-eb48-49ff-8540-b35c569d1e96.png",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\cea73f29-eb48-49ff-8540-b35c569d1e96.png",
+    "SizeKB": 334.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "heartbeat.fsMs.svg",
+    "RelPath": "CoArena\\docs\\assets\\metrics\\heartbeat.fsMs.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "OldeVillagePeople.png",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\OldeVillagePeople.png",
+    "SizeKB": 1629.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "quad.svg",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cadi\\docs\\assets\\quad.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "quadrant-plot.svg",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cpda\\docs\\assets\\quadrant-plot.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "radar-readiness.svg",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cpda\\docs\\assets\\radar-readiness.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "radar.svg",
+    "RelPath": "CoArena\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cadi\\docs\\assets\\radar.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "req-resp-map.svg",
+    "RelPath": "CoArena\\web\\public\\diagrams\\req-resp-map.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_amber_tm.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_amber_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_amber.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_amber.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_gray_tm.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_gray_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_gray.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_gray.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_green_tm.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_green_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_green.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_green.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_red_tm.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_red_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoArena",
+    "Name": "cocivium_logo_red.svg",
+    "RelPath": "CoArena\\docs\\assets\\brand\\cocivium_logo_red.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_status_amber.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_status_amber.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_status_gray.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_status_gray.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_status_green.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_status_green.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_status_red.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_status_red.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "7742cf74-8e06-4274-9a9b-849a38fc964c.png",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\7742cf74-8e06-4274-9a9b-849a38fc964c.png",
+    "SizeKB": 326.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cea73f29-eb48-49ff-8540-b35c569d1e96.png",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\cea73f29-eb48-49ff-8540-b35c569d1e96.png",
+    "SizeKB": 334.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "heartbeat.fsMs.svg",
+    "RelPath": "CoCache\\docs\\assets\\metrics\\heartbeat.fsMs.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "OldeVillagePeople.png",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.39_Spanky_GVB_20251009_192232\\payload\\OldeVillagePeople.png",
+    "SizeKB": 1629.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "quad.svg",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cadi\\docs\\assets\\quad.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "quadrant-plot.svg",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cpda\\docs\\assets\\quadrant-plot.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "radar-readiness.svg",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cpda\\docs\\assets\\radar-readiness.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "radar.svg",
+    "RelPath": "CoCache\\docs\\advice_bombs\\batch_20251014_124554\\.19_Spanky_CPDA-CADI_20251008_225001\\payload\\cadi\\docs\\assets\\radar.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_amber_tm.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_amber_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_amber.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_amber.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_gray_tm.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_gray_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_gray.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_gray.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_green_tm.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_green_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_green.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_green.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_red_tm.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_red_tm.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "cocivium_logo_red.svg",
+    "RelPath": "CoCache\\docs\\assets\\brand\\cocivium_logo_red.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "InSeed_Logo_Shadow.png",
+    "RelPath": "CoCache\\advice-bombs\\extracted\\Desktop_Roundup_20251017_110528\\InSeed_Logo_Shadow.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCache",
+    "Name": "InSeed_Logo_Shadow.png",
+    "RelPath": "CoCache\\advice-bombs\\extracted\\Desktop_Roundup_20251017_105715\\InSeed_Logo_Shadow.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "broken-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\broken-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "build.svg",
+    "RelPath": "CoCivium\\assets\\badges\\build.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "coevolve-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\coevolve-line.svg",
+    "SizeKB": 0.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "docs.svg",
+    "RelPath": "CoCivium\\assets\\badges\\docs.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "fatal.svg",
+    "RelPath": "CoCivium\\docs\\assets\\branding\\cobloat\\fatal.svg",
+    "SizeKB": 0.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "feels-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\feels-line.svg",
+    "SizeKB": 0.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "for-you-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\for-you-line.svg",
+    "SizeKB": 0.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "governments-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\governments-line.svg",
+    "SizeKB": 1.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "hard.svg",
+    "RelPath": "CoCivium\\docs\\assets\\branding\\cobloat\\hard.svg",
+    "SizeKB": 0.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "how-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\how-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "license.svg",
+    "RelPath": "CoCivium\\assets\\badges\\license.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "life-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\life-line.svg",
+    "SizeKB": 1.0,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "ok.svg",
+    "RelPath": "CoCivium\\docs\\assets\\branding\\cobloat\\ok.svg",
+    "SizeKB": 0.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "soft.svg",
+    "RelPath": "CoCivium\\docs\\assets\\branding\\cobloat\\soft.svg",
+    "SizeKB": 0.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "solutions-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\solutions-line.svg",
+    "SizeKB": 0.8,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "unknown.svg",
+    "RelPath": "CoCivium\\docs\\assets\\branding\\cobloat\\unknown.svg",
+    "SizeKB": 0.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "until-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\until-line.svg",
+    "SizeKB": 0.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "who-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\who-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "why-line.svg",
+    "RelPath": "CoCivium\\assets\\icons\\why-line.svg",
+    "SizeKB": 0.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "agent.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\agent.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "asset-graph-map.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\_previews\\render\\asset-graph-map.svg",
+    "SizeKB": 6.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCivium\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "blank-1x1.png",
+    "RelPath": "CoCivium\\docs\\diagrams\\assets\\blank-1x1.png",
+    "SizeKB": 0.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc-crest.png",
+    "RelPath": "CoCivium\\assets\\cc\\cc-crest.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc-crest.svg",
+    "RelPath": "CoCivium\\assets\\cc\\cc-crest.svg",
+    "SizeKB": 0.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Circumplex-model-of-affect-spanned-by-valence-and-arousal-dimensions-Inner-circle-shows.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\canonicals\\v1\\images\\Circumplex-model-of-affect-spanned-by-valence-and-arousal-dimensions-Inner-circle-shows.png",
+    "SizeKB": 41.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Circumplex-model-of-affect-spanned-by-valence-and-arousal-dimensions-Inner-circle-shows.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\Circumplex-model-of-affect-spanned-by-valence-and-arousal-dimensions-Inner-circle-shows.png",
+    "SizeKB": 41.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "co-loop.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\co-loop.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "CoAgency-Visual-Core.png",
+    "RelPath": "CoCivium\\insights\\CoAgency\\CoAgency-Visual-Core.png",
+    "SizeKB": 141.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "CoAgency-Visual-Core.svg",
+    "RelPath": "CoCivium\\insights\\CoAgency\\CoAgency-Visual-Core.svg",
+    "SizeKB": 45.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "CoAgency-Visual-Orbits.png",
+    "RelPath": "CoCivium\\insights\\CoAgency\\CoAgency-Visual-Orbits.png",
+    "SizeKB": 192.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "CoAgency-Visual-Orbits.svg",
+    "RelPath": "CoCivium\\insights\\CoAgency\\CoAgency-Visual-Orbits.svg",
+    "SizeKB": 47.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta_4k_wallpaper.jpg",
+    "RelPath": "CoCivium\\site\\assets\\cognocarta_4k_wallpaper.jpg",
+    "SizeKB": 398.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta_scroll_og.jpg",
+    "RelPath": "CoCivium\\site\\assets\\cognocarta_scroll_og.jpg",
+    "SizeKB": 65.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta_scroll_og.png",
+    "RelPath": "CoCivium\\site\\assets\\cognocarta_scroll_og.png",
+    "SizeKB": 381.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta_scroll_og.svg",
+    "RelPath": "CoCivium\\site\\assets\\cognocarta_scroll_og.svg",
+    "SizeKB": 3.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta_tile_chip_og.png",
+    "RelPath": "CoCivium\\site\\assets\\cognocarta_tile_chip_og.png",
+    "SizeKB": 60.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta_tile_chip_og.svg",
+    "RelPath": "CoCivium\\site\\assets\\cognocarta_tile_chip_og.svg",
+    "SizeKB": 4.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCivium\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "commons.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\commons.svg",
+    "SizeKB": 0.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "concord.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\concord.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "consent.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\consent.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "consenti_og.png",
+    "RelPath": "CoCivium\\site\\assets\\consenti_og.png",
+    "SizeKB": 118.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "consenti_og.svg",
+    "RelPath": "CoCivium\\site\\assets\\consenti_og.svg",
+    "SizeKB": 2.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "covenant.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\covenant.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "credibility_eye.svg",
+    "RelPath": "CoCivium\\docs\\img\\credibility_eye.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "engagement-ladder.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\engagement-ladder.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "evidence.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\evidence.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "forkrejoin.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\forkrejoin.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "gvb_table.png",
+    "RelPath": "CoCivium\\insights\\images\\gvb_table.png",
+    "SizeKB": 53.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "hero_global_village_buyback.jpg",
+    "RelPath": "CoCivium\\insights\\images\\hero_global_village_buyback.jpg",
+    "SizeKB": 0.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "hero_global_village_buyback.png",
+    "RelPath": "CoCivium\\insights\\images\\hero_global_village_buyback.png",
+    "SizeKB": 1629.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "hero.jpg",
+    "RelPath": "CoCivium\\assets\\hero\\hero.jpg",
+    "SizeKB": 98.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "intake-to-inbox-map.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\_previews\\advicebomb\\intake-to-inbox-map.svg",
+    "SizeKB": 11.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "interop.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\interop.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "metrics.svg",
+    "RelPath": "CoCivium\\site\\eyes\\metrics.svg",
+    "SizeKB": 0.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "mission_eye.svg",
+    "RelPath": "CoCivium\\docs\\img\\mission_eye.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "oath.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\oath.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "og-banner.svg",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\og-banner.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "one-week-microproject.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\one-week-microproject.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "pluralism.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\pluralism.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCivium\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCivium\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "quote-960w.png",
+    "RelPath": "CoCivium\\assets\\hero\\quote-960w.png",
+    "SizeKB": 28.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "quote-960w@2x.png",
+    "RelPath": "CoCivium\\assets\\hero\\quote-960w@2x.png",
+    "SizeKB": 21.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "quote.svg",
+    "RelPath": "CoCivium\\assets\\hero\\quote.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "repo_social_1280x640.jpg",
+    "RelPath": "CoCivium\\site\\assets\\repo_social_1280x640.jpg",
+    "SizeKB": 70.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "req-resp-map.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\_previews\\coagent\\req-resp-map.svg",
+    "SizeKB": 12.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "rollback.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\rollback.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "scope.svg",
+    "RelPath": "CoCivium\\site\\eyes\\scope.svg",
+    "SizeKB": 1.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204559.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\canonicals\\v1\\images\\Screenshot 2025-11-28 204559.png",
+    "SizeKB": 115.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204559.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\Screenshot 2025-11-28 204559.png",
+    "SizeKB": 115.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204736.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\Screenshot 2025-11-28 204736.png",
+    "SizeKB": 101.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204736.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\canonicals\\v1\\images\\Screenshot 2025-11-28 204736.png",
+    "SizeKB": 101.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204752.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\Screenshot 2025-11-28 204752.png",
+    "SizeKB": 108.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204752.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\canonicals\\v1\\images\\Screenshot 2025-11-28 204752.png",
+    "SizeKB": 108.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204805.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\canonicals\\v1\\images\\Screenshot 2025-11-28 204805.png",
+    "SizeKB": 98.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204805.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\Screenshot 2025-11-28 204805.png",
+    "SizeKB": 98.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204819.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\canonicals\\v1\\images\\Screenshot 2025-11-28 204819.png",
+    "SizeKB": 99.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Screenshot 2025-11-28 204819.png",
+    "RelPath": "CoCivium\\docs\\history\\LeastAmongUs\\Screenshot 2025-11-28 204819.png",
+    "SizeKB": 99.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "sentry.svg",
+    "RelPath": "CoCivium\\site\\assets\\gib\\sentry.svg",
+    "SizeKB": 0.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "trust-loop-map.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\_previews\\coaudit\\trust-loop-map.svg",
+    "SizeKB": 11.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "two-eyes.png",
+    "RelPath": "CoCivium\\assets\\status\\two-eyes.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "two-eyes.png",
+    "RelPath": "CoCivium\\assets\\diagrams\\two-eyes.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "two-eyes.svg",
+    "RelPath": "CoCivium\\assets\\diagrams\\two-eyes.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "vital-signs-chart.svg",
+    "RelPath": "CoCivium\\docs\\diagrams\\_previews\\render\\academy\\vital-signs-chart.svg",
+    "SizeKB": 18.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "apple-touch-icon.png",
+    "RelPath": "CoCivium\\site\\assets\\apple-touch-icon.png",
+    "SizeKB": 18.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc_mark_1024.png",
+    "RelPath": "CoCivium\\site\\assets\\cc_mark_1024.png",
+    "SizeKB": 186.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc_mark_256.png",
+    "RelPath": "CoCivium\\site\\assets\\cc_mark_256.png",
+    "SizeKB": 30.5,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc_mark_48.png",
+    "RelPath": "CoCivium\\site\\assets\\cc_mark_48.png",
+    "SizeKB": 3.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc_mark_512.png",
+    "RelPath": "CoCivium\\site\\assets\\cc_mark_512.png",
+    "SizeKB": 88.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "cc_mark.svg",
+    "RelPath": "CoCivium\\site\\assets\\cc_mark.svg",
+    "SizeKB": 0.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "CoCivium-logo-concentricc-3grey.svg",
+    "RelPath": "CoCivium\\branding\\CoCivium-logo-concentricc-3grey.svg",
+    "SizeKB": 0.5,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "concord_mark.svg",
+    "RelPath": "CoCivium\\docs\\img\\concord_mark.svg",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "favicon-16.png",
+    "RelPath": "CoCivium\\site\\assets\\favicon-16.png",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "favicon-32.png",
+    "RelPath": "CoCivium\\site\\assets\\favicon-32.png",
+    "SizeKB": 1.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "favicon.ico",
+    "RelPath": "CoCivium\\site\\assets\\favicon.ico",
+    "SizeKB": 13.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "broken-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\broken-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "build.svg",
+    "RelPath": "CoCivium-outreach\\assets\\badges\\build.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "coevolve-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\coevolve-line.svg",
+    "SizeKB": 0.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "docs.svg",
+    "RelPath": "CoCivium-outreach\\assets\\badges\\docs.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "feels-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\feels-line.svg",
+    "SizeKB": 0.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "for-you-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\for-you-line.svg",
+    "SizeKB": 0.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "governments-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\governments-line.svg",
+    "SizeKB": 1.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "how-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\how-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "license.svg",
+    "RelPath": "CoCivium-outreach\\assets\\badges\\license.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "life-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\life-line.svg",
+    "SizeKB": 1.0,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "solutions-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\solutions-line.svg",
+    "SizeKB": 0.8,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "until-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\until-line.svg",
+    "SizeKB": 0.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "who-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\who-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "why-line.svg",
+    "RelPath": "CoCivium-outreach\\assets\\icons\\why-line.svg",
+    "SizeKB": 0.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "agent.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\agent.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium-outreach\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium-outreach\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCivium-outreach\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc-crest.png",
+    "RelPath": "CoCivium-outreach\\assets\\cc\\cc-crest.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc-crest.svg",
+    "RelPath": "CoCivium-outreach\\assets\\cc\\cc-crest.svg",
+    "SizeKB": 0.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta_4k_wallpaper.jpg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cognocarta_4k_wallpaper.jpg",
+    "SizeKB": 398.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta_scroll_og.jpg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cognocarta_scroll_og.jpg",
+    "SizeKB": 65.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta_scroll_og.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cognocarta_scroll_og.png",
+    "SizeKB": 381.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta_scroll_og.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cognocarta_scroll_og.svg",
+    "SizeKB": 3.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta_tile_chip_og.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cognocarta_tile_chip_og.png",
+    "SizeKB": 60.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta_tile_chip_og.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cognocarta_tile_chip_og.svg",
+    "SizeKB": 4.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCivium-outreach\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "commons.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\commons.svg",
+    "SizeKB": 0.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "concord.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\concord.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "consent.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\consent.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "consenti_og.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\consenti_og.png",
+    "SizeKB": 118.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "consenti_og.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\consenti_og.svg",
+    "SizeKB": 2.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "covenant.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\covenant.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "credibility_eye.svg",
+    "RelPath": "CoCivium-outreach\\docs\\img\\credibility_eye.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "evidence.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\evidence.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium-outreach\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium-outreach\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "forkrejoin.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\forkrejoin.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "hero.jpg",
+    "RelPath": "CoCivium-outreach\\assets\\hero\\hero.jpg",
+    "SizeKB": 98.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "interop.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\interop.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "metrics.svg",
+    "RelPath": "CoCivium-outreach\\site\\eyes\\metrics.svg",
+    "SizeKB": 0.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "mission_eye.svg",
+    "RelPath": "CoCivium-outreach\\docs\\img\\mission_eye.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "oath.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\oath.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "og-banner.svg",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\og-banner.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "pluralism.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\pluralism.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium-outreach\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "quote-960w.png",
+    "RelPath": "CoCivium-outreach\\assets\\hero\\quote-960w.png",
+    "SizeKB": 28.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "quote-960w@2x.png",
+    "RelPath": "CoCivium-outreach\\assets\\hero\\quote-960w@2x.png",
+    "SizeKB": 21.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "quote.svg",
+    "RelPath": "CoCivium-outreach\\assets\\hero\\quote.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "repo_social_1280x640.jpg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\repo_social_1280x640.jpg",
+    "SizeKB": 70.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "rollback.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\rollback.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "scope.svg",
+    "RelPath": "CoCivium-outreach\\site\\eyes\\scope.svg",
+    "SizeKB": 1.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "sentry.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\gib\\sentry.svg",
+    "SizeKB": 0.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "two-eyes.png",
+    "RelPath": "CoCivium-outreach\\assets\\status\\two-eyes.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "two-eyes.png",
+    "RelPath": "CoCivium-outreach\\assets\\diagrams\\two-eyes.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "two-eyes.svg",
+    "RelPath": "CoCivium-outreach\\assets\\diagrams\\two-eyes.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "apple-touch-icon.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\apple-touch-icon.png",
+    "SizeKB": 18.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc_mark_1024.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cc_mark_1024.png",
+    "SizeKB": 186.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc_mark_256.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cc_mark_256.png",
+    "SizeKB": 30.5,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc_mark_48.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cc_mark_48.png",
+    "SizeKB": 3.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc_mark_512.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cc_mark_512.png",
+    "SizeKB": 88.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "cc_mark.svg",
+    "RelPath": "CoCivium-outreach\\site\\assets\\cc_mark.svg",
+    "SizeKB": 0.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "concord_mark.svg",
+    "RelPath": "CoCivium-outreach\\docs\\img\\concord_mark.svg",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "favicon-16.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\favicon-16.png",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "favicon-32.png",
+    "RelPath": "CoCivium-outreach\\site\\assets\\favicon-32.png",
+    "SizeKB": 1.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "favicon.ico",
+    "RelPath": "CoCivium-outreach\\site\\assets\\favicon.ico",
+    "SizeKB": 13.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium-outreach\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium-outreach\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium-outreach",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium-outreach\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium.clean\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCivium.clean\\staging\\_imported\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium.clean\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium.clean\\staging\\_imported\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCivium.clean\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCivium.clean\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "consenti-scroll.png",
+    "RelPath": "CoCivium.clean\\assets\\img\\consenti-scroll.png",
+    "SizeKB": 3390.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "credibility_eye.svg",
+    "RelPath": "CoCivium.clean\\docs\\img\\credibility_eye.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium.clean\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCivium.clean\\staging\\_imported\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "metrics.svg",
+    "RelPath": "CoCivium.clean\\site\\eyes\\metrics.svg",
+    "SizeKB": 0.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "mission_eye.svg",
+    "RelPath": "CoCivium.clean\\docs\\img\\mission_eye.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "og-banner.svg",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\og-banner.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCivium.clean\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCivium.clean\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium.clean\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCivium.clean\\staging\\_imported\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "scope.svg",
+    "RelPath": "CoCivium.clean\\site\\eyes\\scope.svg",
+    "SizeKB": 1.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "concord_mark.svg",
+    "RelPath": "CoCivium.clean\\docs\\img\\concord_mark.svg",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium.clean\\staging\\_imported\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium.clean\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCivium.clean",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCivium.clean\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "broken-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\broken-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "build.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\badges\\build.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "coevolve-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\coevolve-line.svg",
+    "SizeKB": 0.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "docs.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\badges\\docs.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "feels-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\feels-line.svg",
+    "SizeKB": 0.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "for-you-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\for-you-line.svg",
+    "SizeKB": 0.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "governments-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\governments-line.svg",
+    "SizeKB": 1.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "how-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\how-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "license.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\badges\\license.svg",
+    "SizeKB": 0.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "life-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\life-line.svg",
+    "SizeKB": 1.0,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "solutions-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\solutions-line.svg",
+    "SizeKB": 0.8,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "until-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\until-line.svg",
+    "SizeKB": 0.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "who-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\who-line.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "why-line.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\icons\\why-line.svg",
+    "SizeKB": 0.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "agent.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\agent.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCiviumBackUp\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "AISA_System_Architecture_Diagram (1).png",
+    "RelPath": "CoCiviumBackUp\\staging\\_imported\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram (1).png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCiviumBackUp\\staging\\_imported\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "AISA_System_Architecture_Diagram.png",
+    "RelPath": "CoCiviumBackUp\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\AISA_System_Architecture_Diagram.png",
+    "SizeKB": 119.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "bio_vs_synth_observers_c1_20250809.svg",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\diagrams\\bio_vs_synth_observers_c1_20250809.svg",
+    "SizeKB": 2.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc-crest.png",
+    "RelPath": "CoCiviumBackUp\\assets\\cc\\cc-crest.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc-crest.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\cc\\cc-crest.svg",
+    "SizeKB": 0.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_4k_wallpaper.jpg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_4k_wallpaper.jpg",
+    "SizeKB": 398.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_scroll_og_src.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_scroll_og_src.png",
+    "SizeKB": 9533.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_scroll_og.jpg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_scroll_og.jpg",
+    "SizeKB": 65.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_scroll_og.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_scroll_og.png",
+    "SizeKB": 381.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_scroll_og.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_scroll_og.svg",
+    "SizeKB": 3.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_tile_chip_og.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_tile_chip_og.png",
+    "SizeKB": 60.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta_tile_chip_og.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cognocarta_tile_chip_og.svg",
+    "SizeKB": 4.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cognocarta-scroll.svg",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\cognocarta-scroll.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "commons.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\commons.svg",
+    "SizeKB": 0.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "concord.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\concord.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "consent.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\consent.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "consenti_og.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\consenti_og.png",
+    "SizeKB": 119.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "consenti_og.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\consenti_og.svg",
+    "SizeKB": 2.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "consenti-scroll.png",
+    "RelPath": "CoCiviumBackUp\\assets\\img\\consenti-scroll.png",
+    "SizeKB": 3390.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "covenant.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\covenant.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "credibility_eye.svg",
+    "RelPath": "CoCiviumBackUp\\docs\\img\\credibility_eye.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "evidence.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\evidence.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCiviumBackUp\\staging\\_imported\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "Evomap_Mockup_v1.png",
+    "RelPath": "CoCiviumBackUp\\legacy\\Civium\\projects\\website\\Evomap_Mockup_v1.png",
+    "SizeKB": 1472.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "forkrejoin.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\forkrejoin.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "hero.jpg",
+    "RelPath": "CoCiviumBackUp\\assets\\hero\\hero.jpg",
+    "SizeKB": 98.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "interop.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\interop.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "metrics.svg",
+    "RelPath": "CoCiviumBackUp\\site\\eyes\\metrics.svg",
+    "SizeKB": 0.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "mission_eye.svg",
+    "RelPath": "CoCiviumBackUp\\docs\\img\\mission_eye.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "oath.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\oath.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "og-banner.svg",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\assets\\og-banner.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "pluralism.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\pluralism.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "progress_map_thumb_v1_1.svg",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_thumb_v1_1.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "progress_map_v0.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\progress_map_v0.svg",
+    "SizeKB": 20.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCiviumBackUp\\staging\\_imported\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "PXL_20250805_191804037.jpg",
+    "RelPath": "CoCiviumBackUp\\legacy\\Civium\\admin\\inbox\\GmailDump_20250811\\originals\\PXL_20250805_191804037.jpg",
+    "SizeKB": 2201.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "quote-960w.png",
+    "RelPath": "CoCiviumBackUp\\assets\\hero\\quote-960w.png",
+    "SizeKB": 12.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "quote.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\hero\\quote.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "repo_social_1280x640.jpg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\repo_social_1280x640.jpg",
+    "SizeKB": 70.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "rollback.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\rollback.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "scope.svg",
+    "RelPath": "CoCiviumBackUp\\site\\eyes\\scope.svg",
+    "SizeKB": 1.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "sentry.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\gib\\sentry.svg",
+    "SizeKB": 0.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "two-eyes.png",
+    "RelPath": "CoCiviumBackUp\\assets\\diagrams\\two-eyes.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "two-eyes.png",
+    "RelPath": "CoCiviumBackUp\\assets\\status\\two-eyes.png",
+    "SizeKB": 18.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "two-eyes.svg",
+    "RelPath": "CoCiviumBackUp\\assets\\diagrams\\two-eyes.svg",
+    "SizeKB": 0.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "apple-touch-icon.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\apple-touch-icon.png",
+    "SizeKB": 18.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc_mark_1024.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cc_mark_1024.png",
+    "SizeKB": 186.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc_mark_256.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cc_mark_256.png",
+    "SizeKB": 30.5,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc_mark_48.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cc_mark_48.png",
+    "SizeKB": 3.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc_mark_512.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cc_mark_512.png",
+    "SizeKB": 88.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "cc_mark.svg",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\cc_mark.svg",
+    "SizeKB": 0.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "concord_mark.svg",
+    "RelPath": "CoCiviumBackUp\\docs\\img\\concord_mark.svg",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "favicon-16.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\favicon-16.png",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "favicon-32.png",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\favicon-32.png",
+    "SizeKB": 1.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "favicon.ico",
+    "RelPath": "CoCiviumBackUp\\site\\assets\\favicon.ico",
+    "SizeKB": 13.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCiviumBackUp\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCiviumBackUp\\legacy\\CoCivium\\_pr\\ci_og-image-20250813_2231\\legacy\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoCiviumBackUp",
+    "Name": "Logo_v1.png",
+    "RelPath": "CoCiviumBackUp\\staging\\_imported\\Civium\\projects\\website\\Logo_v1.png",
+    "SizeKB": 1072.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Cognocarta-Consenti",
+    "Name": "connectome_repo_map_v0.1.png",
+    "RelPath": "Cognocarta-Consenti\\meta\\deprecated\\origins\\meta\\connectome_repo_map_v0.1.png",
+    "SizeKB": 1249.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Cognocarta-Consenti",
+    "Name": "scroll_dependency_map.png",
+    "RelPath": "Cognocarta-Consenti\\maps\\scroll_dependency_map.png",
+    "SizeKB": 278.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Cognocarta-Consenti",
+    "Name": "scroll_dependency_map.png",
+    "RelPath": "Cognocarta-Consenti\\meta\\deprecated\\scrolls\\scroll_dependency_map.png",
+    "SizeKB": 278.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Cognocarta-Consenti",
+    "Name": "thinking_constitution.svg",
+    "RelPath": "Cognocarta-Consenti\\maps\\thinking_constitution.svg",
+    "SizeKB": 0.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoLaminar",
+    "Name": "icon128.png",
+    "RelPath": "CoLaminar\\extension\\icons\\icon128.png",
+    "SizeKB": 2.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "copolitic_hero.png",
+    "RelPath": "CoPolitic\\assets\\img\\copolitic_hero.png",
+    "SizeKB": 79.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "copolitic_hero.webp",
+    "RelPath": "CoPolitic\\assets\\img\\copolitic_hero.webp",
+    "SizeKB": 13.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "hero_roundtable.png",
+    "RelPath": "CoPolitic\\assets\\img\\hero_roundtable.png",
+    "SizeKB": 2373.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "hero_roundtable.webp",
+    "RelPath": "CoPolitic\\assets\\img\\hero_roundtable.webp",
+    "SizeKB": 107.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "apple-touch-icon.png",
+    "RelPath": "CoPolitic\\assets\\img\\apple-touch-icon.png",
+    "SizeKB": 38.9,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "favicon.svg",
+    "RelPath": "CoPolitic\\assets\\img\\favicon.svg",
+    "SizeKB": 0.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "favicon.svg",
+    "RelPath": "CoPolitic\\assets\\favicon.svg",
+    "SizeKB": 0.5,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "icon-512.png",
+    "RelPath": "CoPolitic\\assets\\img\\icon-512.png",
+    "SizeKB": 233.2,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "logo_angels.png",
+    "RelPath": "CoPolitic\\assets\\img\\logo_angels.png",
+    "SizeKB": 1649.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoPolitic",
+    "Name": "logo_angels.webp",
+    "RelPath": "CoPolitic\\assets\\img\\logo_angels.webp",
+    "SizeKB": 214.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoRef",
+    "Name": "CoRef_InteropStack_Dark_v2.png",
+    "RelPath": "CoRef\\assets\\CoRef_InteropStack_Dark_v2.png",
+    "SizeKB": 29.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoRef",
+    "Name": "interop.svg",
+    "RelPath": "CoRef\\assets\\interop.svg",
+    "SizeKB": 47.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "CoSteward",
+    "Name": "eta_badge.svg",
+    "RelPath": "CoSteward\\STATUS\\badges\\eta_badge.svg",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoSteward",
+    "Name": "hitchhiker_badge.svg",
+    "RelPath": "CoSteward\\STATUS\\badges\\hitchhiker_badge.svg",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoSteward",
+    "Name": "last_tick_badge.svg",
+    "RelPath": "CoSteward\\STATUS\\badges\\last_tick_badge.svg",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoSteward",
+    "Name": "sanitation_badge.svg",
+    "RelPath": "CoSteward\\STATUS\\badges\\sanitation_badge.svg",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "CoSteward",
+    "Name": "throughput_badge.svg",
+    "RelPath": "CoSteward\\STATUS\\badges\\throughput_badge.svg",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "EntMent",
+    "Name": "hero.png",
+    "RelPath": "EntMent\\assets\\hero.png",
+    "SizeKB": 0.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "EntMent",
+    "Name": "favicon-192.png",
+    "RelPath": "EntMent\\assets\\icons\\favicon-192.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "EntMent",
+    "Name": "favicon-48.png",
+    "RelPath": "EntMent\\assets\\icons\\favicon-48.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "EntMent",
+    "Name": "favicon-512.png",
+    "RelPath": "EntMent\\assets\\icons\\favicon-512.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "gh-rz",
+    "Name": "logo.svg",
+    "RelPath": "gh-rz\\payload\\ui\\logo.svg",
+    "SizeKB": 0.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Bios.jpg",
+    "RelPath": "Godspawn\\Top7icons\\Bios.jpg",
+    "SizeKB": 32.8,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "ChaptersSummary.jpg",
+    "RelPath": "Godspawn\\Top7icons\\ChaptersSummary.jpg",
+    "SizeKB": 42.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Downloadebook.jpg",
+    "RelPath": "Godspawn\\Top7icons\\Downloadebook.jpg",
+    "SizeKB": 40.2,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "ExpertReviews.jpg",
+    "RelPath": "Godspawn\\Top7icons\\ExpertReviews.jpg",
+    "SizeKB": 38.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-1.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-1.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-2.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-2.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-3.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-3.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-4.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-4.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-5.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-5.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-6.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-6.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-7.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-7.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-8.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\logos\\Jedi-heads-8.jpg",
+    "SizeKB": 41.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "LiteraryCritique.jpg",
+    "RelPath": "Godspawn\\Top7icons\\LiteraryCritique.jpg",
+    "SizeKB": 36.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "QuickSynopsis.jpg",
+    "RelPath": "Godspawn\\Top7icons\\QuickSynopsis.jpg",
+    "SizeKB": 39.8,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "ScreenplaySample.jpg",
+    "RelPath": "Godspawn\\Top7icons\\ScreenplaySample.jpg",
+    "SizeKB": 38.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "StoryboardSample.jpg",
+    "RelPath": "Godspawn\\Top7icons\\StoryboardSample.jpg",
+    "SizeKB": 42.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "000007946103_PreviewSmall01.jpg",
+    "RelPath": "Godspawn\\000007946103_PreviewSmall01.jpg",
+    "SizeKB": 6.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "000007946103_PreviewSmall02.jpg",
+    "RelPath": "Godspawn\\000007946103_PreviewSmall02.jpg",
+    "SizeKB": 6.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "000007946103_PreviewSmall03.jpg",
+    "RelPath": "Godspawn\\000007946103_PreviewSmall03.jpg",
+    "SizeKB": 6.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "000007946103_PreviewSmall04.jpg",
+    "RelPath": "Godspawn\\000007946103_PreviewSmall04.jpg",
+    "SizeKB": 6.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "000007946103_PreviewSmall05.jpg",
+    "RelPath": "Godspawn\\000007946103_PreviewSmall05.jpg",
+    "SizeKB": 6.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "1ShinyHandinCell.jpg",
+    "RelPath": "Godspawn\\1ShinyHandinCell.jpg",
+    "SizeKB": 2027.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "2Flashbacks.jpg",
+    "RelPath": "Godspawn\\2Flashbacks.jpg",
+    "SizeKB": 2162.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "android_backing_greenred.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\android_backing_greenred.jpg",
+    "SizeKB": 164.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "AZOIC_Title_ClearBG.png",
+    "RelPath": "Godspawn\\AZOIC_Title_ClearBG.png",
+    "SizeKB": 8.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "danbiopic.jpg",
+    "RelPath": "Godspawn\\danbiopic.jpg",
+    "SizeKB": 21.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "DiannaBiopic.jpg",
+    "RelPath": "Godspawn\\DiannaBiopic.jpg",
+    "SizeKB": 21.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "eye.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\eye.jpg",
+    "SizeKB": 152.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "eye2.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\eye2.jpg",
+    "SizeKB": 473.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "eye3.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\eye3.jpg",
+    "SizeKB": 449.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "eye4.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\eye4.jpg",
+    "SizeKB": 549.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "eye5.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\eye5.jpg",
+    "SizeKB": 379.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_3D_Novel.png",
+    "RelPath": "Godspawn\\Pkg For Elias\\GS_3D_Novel.png",
+    "SizeKB": 1605.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_3D_Novel.png",
+    "RelPath": "Godspawn\\GS_3D_Novel.png",
+    "SizeKB": 1605.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Back_Cover_Background.png",
+    "RelPath": "Godspawn\\GS_Back_Cover_Background.png",
+    "SizeKB": 2093.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Back_Cover_Gold_Star.png",
+    "RelPath": "Godspawn\\GS_Back_Cover_Gold_Star.png",
+    "SizeKB": 1456.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Back_Cover_Overlay_Text.png",
+    "RelPath": "Godspawn\\GS_Back_Cover_Overlay_Text.png",
+    "SizeKB": 205.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Binding_Cover_900pages.png",
+    "RelPath": "Godspawn\\Pkg For Elias\\GS_Binding_Cover_900pages.png",
+    "SizeKB": 5227.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Binding_Cover_900pages.png",
+    "RelPath": "Godspawn\\GS_Binding_Cover_900pages.png",
+    "SizeKB": 5227.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Front_Cover_Gold_Scar.png",
+    "RelPath": "Godspawn\\GS_Front_Cover_Gold_Scar.png",
+    "SizeKB": 2848.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Spine_Background.png",
+    "RelPath": "Godspawn\\GS_Spine_Background.png",
+    "SizeKB": 1679.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Spine.png",
+    "RelPath": "Godspawn\\GS_Spine.png",
+    "SizeKB": 760.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS_Title_Clear_Background.png",
+    "RelPath": "Godspawn\\GS_Title_Clear_Background.png",
+    "SizeKB": 17.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GS-header.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\GS Flash Site\\GS-header.jpg",
+    "SizeKB": 42.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0877.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0877.JPG",
+    "SizeKB": 258.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0883.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0883.JPG",
+    "SizeKB": 320.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0895.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0895.JPG",
+    "SizeKB": 224.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0928.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0928.JPG",
+    "SizeKB": 238.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0929.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0929.JPG",
+    "SizeKB": 238.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0931.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0931.JPG",
+    "SizeKB": 86.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0932.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0932.JPG",
+    "SizeKB": 270.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "IMG_0933.JPG",
+    "RelPath": "Godspawn\\DanZen\\backings\\IMG_0933.JPG",
+    "SizeKB": 228.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Jedi-heads-1.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\GS Flash Site\\Jedi-heads-1.jpg",
+    "SizeKB": 41.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "m.jpg",
+    "RelPath": "Godspawn\\m.jpg",
+    "SizeKB": 2.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "pod_oracle_color.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\pod_oracle_color.jpg",
+    "SizeKB": 346.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "pod_oracle_single_bluepink.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\pod_oracle_single_bluepink.jpg",
+    "SizeKB": 201.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "pod_oracle_single_bluepink2.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\pod_oracle_single_bluepink2.jpg",
+    "SizeKB": 213.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "pod_with_eye.jpg",
+    "RelPath": "Godspawn\\DanZen\\backings\\pod_with_eye.jpg",
+    "SizeKB": 365.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "rabittooth.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\rabittooth.jpg",
+    "SizeKB": 22.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0001.jpg",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0001.jpg",
+    "SizeKB": 855.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0002.jpg",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0002.jpg",
+    "SizeKB": 736.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0003.jpg",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0003.jpg",
+    "SizeKB": 834.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0004.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0004.JPG",
+    "SizeKB": 831.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0005.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0005.JPG",
+    "SizeKB": 843.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0006.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0006.JPG",
+    "SizeKB": 785.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0007.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0007.JPG",
+    "SizeKB": 909.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0008.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0008.JPG",
+    "SizeKB": 1281.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0009.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0009.JPG",
+    "SizeKB": 748.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0010.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0010.JPG",
+    "SizeKB": 990.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0011.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0011.JPG",
+    "SizeKB": 896.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0012.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0012.JPG",
+    "SizeKB": 803.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0013.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0013.JPG",
+    "SizeKB": 805.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0014.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0014.JPG",
+    "SizeKB": 1014.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0015.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0015.JPG",
+    "SizeKB": 1088.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0016.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0016.JPG",
+    "SizeKB": 716.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0017.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0017.JPG",
+    "SizeKB": 542.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0018.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0018.JPG",
+    "SizeKB": 981.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0019.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0019.JPG",
+    "SizeKB": 911.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "Save0020.JPG",
+    "RelPath": "Godspawn\\DanZen\\storyboard\\storyboard\\Save0020.JPG",
+    "SizeKB": 621.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "ScanManStrip.jpg",
+    "RelPath": "Godspawn\\ScanManStrip.jpg",
+    "SizeKB": 62.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "superman.jpg",
+    "RelPath": "Godspawn\\GODSPAWN 2006\\GODSPAWN\\images\\superman.jpg",
+    "SizeKB": 14.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "WritersVignette.jpg",
+    "RelPath": "Godspawn\\WritersVignette.jpg",
+    "SizeKB": 93.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GodspawnLogo.jpg",
+    "RelPath": "Godspawn\\Pkg For Elias\\GodspawnLogo.jpg",
+    "SizeKB": 401.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Godspawn",
+    "Name": "GodspawnLogo.jpg",
+    "RelPath": "Godspawn\\GodspawnLogo.jpg",
+    "SizeKB": 401.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "GroupBuild",
+    "Name": "hero.png",
+    "RelPath": "GroupBuild\\assets\\hero.png",
+    "SizeKB": 0.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild",
+    "Name": "favicon-192.png",
+    "RelPath": "GroupBuild\\assets\\icons\\favicon-192.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "GroupBuild",
+    "Name": "favicon-48.png",
+    "RelPath": "GroupBuild\\assets\\icons\\favicon-48.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "GroupBuild",
+    "Name": "favicon-512.png",
+    "RelPath": "GroupBuild\\assets\\icons\\favicon-512.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "aggressive.svg",
+    "RelPath": "GroupBuild-website\\assets\\kittens\\aggressive.svg",
+    "SizeKB": 1.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "empathic.svg",
+    "RelPath": "GroupBuild-website\\assets\\kittens\\empathic.svg",
+    "SizeKB": 0.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "og.svg",
+    "RelPath": "GroupBuild-website\\assets\\og\\og.svg",
+    "SizeKB": 0.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210249.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210249.png",
+    "SizeKB": 367.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210304.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210304.png",
+    "SizeKB": 514.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210314.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210314.png",
+    "SizeKB": 74.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210327.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210327.png",
+    "SizeKB": 356.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210336.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210336.png",
+    "SizeKB": 159.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210347.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210347.png",
+    "SizeKB": 435.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210401.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210401.png",
+    "SizeKB": 229.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210414.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210414.png",
+    "SizeKB": 66.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210421.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210421.png",
+    "SizeKB": 59.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210430.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210430.png",
+    "SizeKB": 118.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210437.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210437.png",
+    "SizeKB": 203.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210444.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210444.png",
+    "SizeKB": 34.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210454.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210454.png",
+    "SizeKB": 590.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210508.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210508.png",
+    "SizeKB": 280.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210519.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210519.png",
+    "SizeKB": 722.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210528.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210528.png",
+    "SizeKB": 28.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210539.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210539.png",
+    "SizeKB": 365.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210553.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210553.png",
+    "SizeKB": 485.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210601.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210601.png",
+    "SizeKB": 532.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210611.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210611.png",
+    "SizeKB": 577.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210620.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210620.png",
+    "SizeKB": 38.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210631.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210631.png",
+    "SizeKB": 241.8,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210643.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210643.png",
+    "SizeKB": 262.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210653.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210653.png",
+    "SizeKB": 472.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210702.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210702.png",
+    "SizeKB": 169.9,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210710.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210710.png",
+    "SizeKB": 96.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210717.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210717.png",
+    "SizeKB": 78.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210726.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210726.png",
+    "SizeKB": 134.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210735.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210735.png",
+    "SizeKB": 41.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210743.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210743.png",
+    "SizeKB": 40.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210751.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210751.png",
+    "SizeKB": 99.3,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210758.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210758.png",
+    "SizeKB": 84.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210805.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210805.png",
+    "SizeKB": 127.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210813.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210813.png",
+    "SizeKB": 32.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "Screenshot 2025-09-14 210821.png",
+    "RelPath": "GroupBuild-website\\friendly-proposal\\discord-screens\\Screenshot 2025-09-14 210821.png",
+    "SizeKB": 107.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "GroupBuild-website",
+    "Name": "favicon.ico",
+    "RelPath": "GroupBuild-website\\assets\\favicons\\favicon.ico",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "CatEye.ico",
+    "RelPath": "InSeed\\assets\\icons\\CatEye.ico",
+    "SizeKB": 179.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "CatFace.ico",
+    "RelPath": "InSeed\\assets\\icons\\CatFace.ico",
+    "SizeKB": 361.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "CatPaw.ico",
+    "RelPath": "InSeed\\assets\\icons\\CatPaw.ico",
+    "SizeKB": 248.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "GreenBook.ico",
+    "RelPath": "InSeed\\assets\\icons\\GreenBook.ico",
+    "SizeKB": 112.9,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "GroupBuild_Torsos.ico",
+    "RelPath": "InSeed\\assets\\icons\\GroupBuild_Torsos.ico",
+    "SizeKB": 171.0,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "Hands_Raised.ico",
+    "RelPath": "InSeed\\assets\\icons\\Hands_Raised.ico",
+    "SizeKB": 116.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "map-inseed.png",
+    "RelPath": "InSeed\\assets\\brand\\map-inseed.png",
+    "SizeKB": 580.4,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "map-thumb.svg",
+    "RelPath": "InSeed\\assets\\brand\\map-thumb.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "Scroll.ico",
+    "RelPath": "InSeed\\assets\\icons\\Scroll.ico",
+    "SizeKB": 66.1,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "020_partner-ecosystem__intro-to-deal.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\020_partner-ecosystem__intro-to-deal.svg",
+    "SizeKB": 45.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "030_content-loop__weekly-cycle.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\030_content-loop__weekly-cycle.svg",
+    "SizeKB": 85.2,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "040_cosuite-architecture__high-level.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\040_cosuite-architecture__high-level.svg",
+    "SizeKB": 189.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "099_inseed-timeline.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\099_inseed-timeline.svg",
+    "SizeKB": 2.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-about-timeline.svg",
+    "RelPath": "InSeed\\assets\\diagram-about-timeline.svg",
+    "SizeKB": 2.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-coflow.svg",
+    "RelPath": "InSeed\\assets\\diagram-coflow.svg",
+    "SizeKB": 3.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-legacy-vs-steward.svg",
+    "RelPath": "InSeed\\assets\\diagram-legacy-vs-steward.svg",
+    "SizeKB": 1.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-make-vs-buy.svg",
+    "RelPath": "InSeed\\assets\\diagram-make-vs-buy.svg",
+    "SizeKB": 2.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-placeholder.svg",
+    "RelPath": "InSeed\\assets\\diagram-placeholder.svg",
+    "SizeKB": 1.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-runway.svg",
+    "RelPath": "InSeed\\assets\\diagram-runway.svg",
+    "SizeKB": 2.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-scoreboard.svg",
+    "RelPath": "InSeed\\assets\\diagram-scoreboard.svg",
+    "SizeKB": 3.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-steward-loop.svg",
+    "RelPath": "InSeed\\assets\\diagram-steward-loop.svg",
+    "SizeKB": 2.7,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "diagram-tos-ai.svg",
+    "RelPath": "InSeed\\assets\\diagram-tos-ai.svg",
+    "SizeKB": 2.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "dog-racehorse-hero.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\dog-racehorse-hero.svg",
+    "SizeKB": 1.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "hero.png",
+    "RelPath": "InSeed\\assets\\hero.png",
+    "SizeKB": 2500.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "InSeed_Hero.png",
+    "RelPath": "InSeed\\assets\\InSeed_Hero.png",
+    "SizeKB": 3414.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "Legacy-CEO-vs-CEOS.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\Legacy-CEO-vs-CEOS.svg",
+    "SizeKB": 403.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "legacy-vs-steward-hero.png",
+    "RelPath": "InSeed\\assets\\legacy-vs-steward-hero.png",
+    "SizeKB": 2374.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "Map_Toronto_NY.png",
+    "RelPath": "InSeed\\assets\\maps\\Map_Toronto_NY.png",
+    "SizeKB": 3443.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "map-placeholder.png",
+    "RelPath": "InSeed\\assets\\map-placeholder.png",
+    "SizeKB": 0.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "map-placeholder.svg",
+    "RelPath": "InSeed\\assets\\map-placeholder.svg",
+    "SizeKB": 0.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "og-inseed-v4.png",
+    "RelPath": "InSeed\\assets\\diagrams\\og-inseed-v4.png",
+    "SizeKB": 0.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "og-inseed-v4.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\og-inseed-v4.svg",
+    "SizeKB": 0.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "og.svg",
+    "RelPath": "InSeed\\assets\\og\\og.svg",
+    "SizeKB": 0.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "services-flow.svg",
+    "RelPath": "InSeed\\assets\\diagrams\\services-flow.svg",
+    "SizeKB": 1.5,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "apple-touch-icon.png",
+    "RelPath": "InSeed\\assets\\apple-touch-icon.png",
+    "SizeKB": 7.2,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "EntMent_Logo_Dark.ico",
+    "RelPath": "InSeed\\assets\\icons\\EntMent_Logo_Dark.ico",
+    "SizeKB": 72.9,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "EntMent_Logo.ico",
+    "RelPath": "InSeed\\assets\\icons\\EntMent_Logo.ico",
+    "SizeKB": 19.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon-16.png",
+    "RelPath": "InSeed\\assets\\favicon-16.png",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon-192.png",
+    "RelPath": "InSeed\\assets\\icons\\favicon-192.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon-32.png",
+    "RelPath": "InSeed\\assets\\favicon-32.png",
+    "SizeKB": 1.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon-48.png",
+    "RelPath": "InSeed\\assets\\icons\\favicon-48.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon-512.png",
+    "RelPath": "InSeed\\assets\\icons\\favicon-512.png",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon.ico",
+    "RelPath": "InSeed\\assets\\favicon.ico",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon.ico",
+    "RelPath": "InSeed\\assets\\favicons\\favicon.ico",
+    "SizeKB": 0.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "favicon.svg",
+    "RelPath": "InSeed\\favicon.svg",
+    "SizeKB": 0.2,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "GroupBuild_Logo.ico",
+    "RelPath": "InSeed\\assets\\icons\\GroupBuild_Logo.ico",
+    "SizeKB": 123.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo-128.png",
+    "RelPath": "InSeed\\assets\\inseed-logo-128.png",
+    "SizeKB": 4.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo-256.png",
+    "RelPath": "InSeed\\assets\\inseed-logo-256.png",
+    "SizeKB": 13.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo-512.png",
+    "RelPath": "InSeed\\assets\\inseed-logo-512.png",
+    "SizeKB": 45.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo-64.png",
+    "RelPath": "InSeed\\assets\\inseed-logo-64.png",
+    "SizeKB": 2.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo-micro.svg",
+    "RelPath": "InSeed\\assets\\inseed-logo-micro.svg",
+    "SizeKB": 362.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo-white.svg",
+    "RelPath": "InSeed\\assets\\inseed-logo-white.svg",
+    "SizeKB": 362.3,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "inseed-logo.png",
+    "RelPath": "InSeed\\assets\\brand\\inseed-logo.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "logo-nav.png",
+    "RelPath": "InSeed\\assets\\icons\\logo-nav.png",
+    "SizeKB": 6.8,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "RickPublic_Logo_on_Clear.ico",
+    "RelPath": "InSeed\\assets\\icons\\RickPublic_Logo_on_Clear.ico",
+    "SizeKB": 100.7,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "InSeed",
+    "Name": "RickPublic_Logo_on_White.ico",
+    "RelPath": "InSeed\\assets\\icons\\RickPublic_Logo_on_White.ico",
+    "SizeKB": 264.1,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Opename",
+    "Name": "opename-192.png",
+    "RelPath": "Opename\\assets\\opename-192.png",
+    "SizeKB": 26.1,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Opename",
+    "Name": "opename-512.png",
+    "RelPath": "Opename\\assets\\opename-512.png",
+    "SizeKB": 131.0,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "Opename",
+    "Name": "apple-touch-icon.png",
+    "RelPath": "Opename\\assets\\apple-touch-icon.png",
+    "SizeKB": 7.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Opename",
+    "Name": "favicon-16.png",
+    "RelPath": "Opename\\assets\\favicon-16.png",
+    "SizeKB": 0.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Opename",
+    "Name": "favicon-32.png",
+    "RelPath": "Opename\\assets\\favicon-32.png",
+    "SizeKB": 1.0,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "Opename",
+    "Name": "favicon.ico",
+    "RelPath": "Opename\\assets\\favicon.ico",
+    "SizeKB": 2.6,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-builder.svg",
+    "RelPath": "rickballard\\icons\\persona-builder.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-designer.svg",
+    "RelPath": "rickballard\\icons\\persona-designer.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-educator.svg",
+    "RelPath": "rickballard\\icons\\persona-educator.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-governance.svg",
+    "RelPath": "rickballard\\icons\\persona-governance.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-metrics.svg",
+    "RelPath": "rickballard\\icons\\persona-metrics.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-steward.svg",
+    "RelPath": "rickballard\\icons\\persona-steward.svg",
+    "SizeKB": 0.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "persona-storyteller.svg",
+    "RelPath": "rickballard\\icons\\persona-storyteller.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "rickballard",
+    "Name": "future-harmony-robot-child.png",
+    "RelPath": "rickballard\\images\\future-harmony-robot-child.png",
+    "SizeKB": 1719.6,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-amber.png",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\png\\halo-amber.png",
+    "SizeKB": 61.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-amber.svg",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\halo-amber.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-black.png",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\png\\halo-black.png",
+    "SizeKB": 9.6,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-black.svg",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\halo-black.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-green.png",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\png\\halo-green.png",
+    "SizeKB": 72.2,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-green.svg",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\halo-green.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-grey.png",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\png\\halo-grey.png",
+    "SizeKB": 38.3,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-grey.svg",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\halo-grey.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-red.png",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\png\\halo-red.png",
+    "SizeKB": 61.7,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-red.svg",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\halo-red.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-white.png",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\png\\halo-white.png",
+    "SizeKB": 11.2,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "halo-white.svg",
+    "RelPath": "RickPublic\\assets\\icons\\CoCivium\\halo-white.svg",
+    "SizeKB": 0.5,
+    "Hint": "folder-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "bcg.png",
+    "RelPath": "RickPublic\\infographics\\matrices\\bcg.png",
+    "SizeKB": 174.4,
+    "Hint": "generic"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "RickPublic_Logo_Black_On_Transparent.png",
+    "RelPath": "RickPublic\\assets\\branding\\RickPublic_Logo_Black_On_Transparent.png",
+    "SizeKB": 22.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "RickPublic_Logo_Black_On_White.jpg",
+    "RelPath": "RickPublic\\assets\\branding\\RickPublic_Logo_Black_On_White.jpg",
+    "SizeKB": 14.4,
+    "Hint": "name-match"
+  },
+  {
+    "Repo": "RickPublic",
+    "Name": "RickPublic_Logo_White_On_Transparent.png",
+    "RelPath": "RickPublic\\assets\\branding\\RickPublic_Logo_White_On_Transparent.png",
+    "SizeKB": 21.4,
+    "Hint": "name-match"
+  }
+]
