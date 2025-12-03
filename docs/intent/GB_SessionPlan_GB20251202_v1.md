@@ -243,3 +243,17 @@ On 2025-12-02 this GB session added:
 
 This satisfies the "CoTheoryCiv megascroll basket" checklist item at stub level
 and gives Co1 and future helpers a clean assembly rail for public scrolls.
+---
+## Wave log update (MW_CTC_ChildrenSegment_v1_20251202)
+
+On 2025-12-02 this GB session updated:
+
+- docs/CoTheoryCivilization/CoTheoryCiv_MegaScroll/segments/CTC_S4_ChildrenOfTheNewWorld_v1.md
+  - from a short stub to a first-pass narrative scaffold:
+    - two contrasted childhoods (cruel dynasty vs edge-balanced futures),
+    - GroupBuild as a place their families might meet,
+    - CoCivia introduced as an older cousin AI presence,
+    - explicit notes on how this segment should evolve.
+
+This strengthens the emotional backbone for CoTheoryCiv and Academia Shock and
+gives future helpers a clearer target for refinement and excerpting.
