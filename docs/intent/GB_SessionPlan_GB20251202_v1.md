@@ -243,3 +243,16 @@ On 2025-12-02 this GB session added:
 
 This satisfies the "CoTheoryCiv megascroll basket" checklist item at stub level
 and gives Co1 and future helpers a clean assembly rail for public scrolls.
+---
+## Wave log update (MW_AcademiaShock_FlagshipOutlines_v1_20251202)
+
+On 2025-12-02 this GB session added:
+
+- docs/CoTheoryCivilization/AcademiaShock_FlagshipOutlines_v1.md
+  - first-pass outlines for A1, A2, A3, each wired to:
+    - CoTheoryCiv megascroll segments,
+    - GroupBuild as field lab,
+    - CoGBx charter and CoPortal artefacts.
+
+This gives Academia Shock a clear scaffold for flagship pieces that Co1 and
+other helpers can now flesh out into full drafts.
