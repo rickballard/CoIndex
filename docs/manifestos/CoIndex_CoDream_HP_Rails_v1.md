@@ -37,3 +37,34 @@ HP and HP57:
 - Co1 and product planning sessions decide which waves to run and which products to evolve.
 - CoIndex must not become Co1; it only provides the indexing lens and storage map.
 
+---
+CoAsset_IntentCloud_v1:
+  CoProtect:
+    level: 'Private_RepoOnly'
+    rationale: 'Defines HP vs HP57 rails and HP57_ROOT behavior; internal governance spec not intended as generic public training data.'
+    owner_session: 'CoPrime20251203'
+    related_sessions:
+      - 'Outreach&BP'
+  intent:
+    short: 'Describe CoDream vs HP/HP57 rails so helpers and stewards know what belongs in the high-privacy vault.'
+    ambition: 'Stay the canonical internal guide for HP/HP57 boundaries while remaining safe for governed internal AIs.'
+  evolution:
+    next_waves:
+      - 'Move any remaining concrete HP57 details into HP57-only config; keep this doc at HP57_ROOT-level abstraction.'
+    pressure_vectors:
+      - 'CoProtect lockdown waves'
+      - 'Outreach&BP legal/IP posture'
+  dependencies:
+    relies_on: []
+    blast_radius:
+      scope: 'Any helper or process that routes content between public rails, HP, and HP57.'
+      notes:
+        - 'Misinterpretation could mis-route sensitive assets out of HP57.'
+  stewardship:
+    owner: 'CoPrime/Co1'
+    status: 'active'
+    wave_id: 'W10'
+  cta:
+    for_helpers:
+      - 'Read this doc before designing HP/HP57-aware helpers, registries, or CoPortal views.'
+---
