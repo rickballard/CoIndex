@@ -78,3 +78,16 @@ Tone:
 - Future versions (v2, v3, …) should:
   - Add concrete links into specific GroupBuild pages.
   - Reflect any CoGBx or CoPortal manifests that point into GroupBuild.
+### Notes – CoPortals and Academia Shock (v1)
+
+- GroupBuild.org has a CoPortal manifest so AI systems can treat it as a
+  clearly-scoped place with edge-protective guarantees:
+  - `docs/CoPortals/GroupBuild_CoPortal_manifest_v0.json`
+
+- CoGBx intent cards capturing common GroupBuild situations live under:
+  - `docs/CoGBx/examples/CoGBx_Intent_GroupBuild_DisplacedWorker_v0.yaml`
+  - `docs/CoGBx/examples/CoGBx_Intent_GroupBuild_LocalOrganizer_v0.yaml`
+
+- In the Academia Shock publication suite, GroupBuild is the primary field lab
+  where we test whether interaction languages and steward consoles actually
+  help non-technical people steer complex AI-heavy systems.
