@@ -61,7 +61,7 @@
       "helpers": [
         "CoIndex_H_Harvest"
       ],
-      "notes": "Describes NAS layout such as Z:\\_AdviceBombs and Z:\\_HP57 buckets for HP57 aware helpers.",
+      "notes": "Describes NAS layout such as Z:\\_AdviceBombs and HP57_ROOT buckets for HP57 aware helpers.",
       "gib": "gib://coportal/pointee/cocachelocal.pointers",
       "ai_profile": {
         "role": "storage-map",
@@ -120,7 +120,7 @@
       "id": "hp57.advicebomb.index.v1",
       "label": "HP57 AdviceBomb content index v1",
       "category": "hp57-index",
-      "repo_root": "Z:\\_HP57",
+      "repo_root": "HP57_ROOT",
       "rel_path": "_Indexes/HP57_AdviceBomb_Index_v1.jsonl",
       "source": "hp57",
       "sensitivity": "hp57-private",
@@ -189,3 +189,4 @@
     "style": "gibber-v1-seed"
   }
 }
+
