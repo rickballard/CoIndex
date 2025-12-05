@@ -347,3 +347,27 @@ If you feel lag:
 Name to remember for this pattern: **CoCacheFlush**  
 (see GIBindex term and CoLag design docs for details).
 
+---
+```cometatrain
+{
+  "schema_id": "cometatrain-asset-v1",
+  "schema_version": "1.0.0",
+  "asset_id": "rickballard/CoIndex:docs/CoAnchor_Quickstart_Thin_v4.md",
+  "repo": "rickballard/CoIndex",
+  "path": "docs/CoAnchor_Quickstart_Thin_v4.md",
+  "kind": "quickstart",
+  "title": "CoAnchor Quickstart (Thin v4)",
+  "intent_summary": "TODO: describe why this asset exists in 1-2 sentences.",
+  "asset_stage": "seed",
+  "evolution_lane": "note",
+  "evolution_path": [
+    {
+      "description": "Replace stub fields in this CoMetaTrain with real values.",
+      "stage": "W1-clarify-intent"
+    }
+  ],
+  "asset_persona": "I am CoAnchor Quickstart (Thin v4) (quickstart, id rickballard/CoIndex:docs/CoAnchor_Quickstart_Thin_v4.md). I exist to TODO: describe why this asset exists in 1-2 sentences."
+}
+```
+
+
