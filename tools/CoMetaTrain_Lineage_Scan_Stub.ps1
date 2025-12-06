@@ -1,18 +1,12 @@
-# CoMetaTrain_Lineage_Scan_Stub.ps1
-# Purpose:
-#   Skeleton helper to inspect git lineage for CoMetaTrain-related files
-#   before merging branches, so parallel work does not silently clobber
-#   prior contributions.
-
 param(
-    [string]$RepoRoot = (Join-Path $HOME "Documents\GitHub\CoIndex"),
+    [string]$RepoRoot = (Join-Path $HOME 'Documents\GitHub\CoIndex'),
     [string[]]$Paths = @(
-        "docs/intent/CoProcess/CoMetaTrain_*.md"
+        'docs/intent/CoProcess/CoMetaTrain_*.md'
     )
 )
 
 Set-StrictMode -Version Latest
-$ErrorActionPreference = "Stop"
+$ErrorActionPreference = 'Stop'
 
 if (-not (Test-Path $RepoRoot)) {
     Write-Error "RepoRoot not found: $RepoRoot"
@@ -20,43 +14,22 @@ if (-not (Test-Path $RepoRoot)) {
 
 Set-Location $RepoRoot
 
-$uts = (Get-Date).ToUniversalTime().ToString("yyyyMMddTHHmmssZ")
-$reportDir  = Join-Path $RepoRoot "docs/intent/CoProcess"
-$reportPath = Join-Path $reportDir  ("CoMetaTrain_Lineage_Report_$uts.md")
+$uts = (Get-Date).ToUniversalTime().ToString('yyyyMMddTHHmmssZ')
+$reportDir  = Join-Path $RepoRoot 'docs/intent/CoProcess'
+$reportPath = Join-Path $reportDir ("CoMetaTrain_Lineage_Report_{0}.md" -f $uts)
 
 New-Item -ItemType Directory -Path $reportDir -Force | Out-Null
 
 $lines = @()
-$lines += "# CoMetaTrain Lineage Report"
-$lines += ""
-$lines += "Generated: $uts"
-$lines += ""
-$lines += "Repo: $RepoRoot"
-$lines += ""
-
-foreach ($p in $Paths) {
-    $files = Get-ChildItem -Path $p -ErrorAction SilentlyContinue
-    if (-not $files) {
-        $lines += "## Path pattern: $p"
-        $lines += ""
-        $lines += "_No matching files found in this branch._"
-        $lines += ""
-        continue
-    }
-
-    foreach ($file in $files) {
-        $rel = $file.FullName.Replace($RepoRoot,"").TrimStart("\","/")
-        $lines += "## File: $rel"
-        $lines += ""
-        $lines += "```text"
-        $hist = git log --follow --oneline -- "$($file.FullName)"
-        $lines += $hist
-        $lines += "```"
-        $lines += ""
-    }
-}
+$lines += '# CoMetaTrain Lineage Report'
+$lines += ''
+$lines += ('Generated: {0}' -f $uts)
+$lines += ''
+$lines += ('Repo: {0}' -f $RepoRoot)
+$lines += ''
+$lines += 'Note: this is a minimal stub. Future versions may add per-file history.'
+$lines += ''
 
 $lines | Set-Content -Encoding UTF8 $reportPath
 
-Write-Host "CoMetaTrain lineage report written:" -ForegroundColor Green
-Write-Host "  $reportPath" -ForegroundColor Green
+Write-Host ('CoMetaTrain lineage report written: {0}' -f $reportPath)
