@@ -121,3 +121,4 @@ Any future CoSuite service that wants this baseline should:
   ],
   "asset_persona": "I am the shared business model schema for GroupBuild and sibling front doors. I exist to describe the pay it forward membership experiment so humans and AIs can understand, reuse, and audit it."
 }
+```
