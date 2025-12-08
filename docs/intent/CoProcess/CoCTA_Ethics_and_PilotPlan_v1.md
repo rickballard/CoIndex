@@ -109,3 +109,17 @@ Future versions may add:
 - examples of safe CoCTA patterns,
 - integration details with CoHeart / CoPulse and CoGibber.
 
+
+---
+
+## 8. CoCTA Governance Table (Seeded 20251208T010928Z)
+
+| Role     | Responsibilities | Rights / Constraints |
+|----------|------------------|----------------------|
+| **Co1**  | Owns CTA families, approves pilot → GA | May disable CTA families globally |
+| **Co2**  | Designs pilots, measures friction/value | Cannot deploy CTA globally |
+| **Co3**  | Tracks lineage + retired patterns | Read-only governance |
+| **Co4**  | Validates ethics (anti-coercion, dark-pattern checks) | May block unsafe CTA patterns |
+| **CoSteward** | Tunes CTA families for workflow | Must honor BPOE + CTA ethics |
+
+This table clarifies ‘who does what’ for CTA evolution.
