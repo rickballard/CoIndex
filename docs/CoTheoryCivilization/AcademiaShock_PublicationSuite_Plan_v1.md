@@ -120,3 +120,26 @@ If not:
     - Next 2-3 DO blocks future sessions should run.
 
 This file is v1. Future sessions should update rather than replace it, keeping the evolution path visible.
+## GroupBuild artefacts added in GB session (v1)
+
+For this GB-labeled session, GroupBuild was made the primary field lab for Academia Shock and CoGBx:
+
+- **GroupBuild.org structure**
+  - `docs/GroupBuild/GB_SiteMap_v1.md`
+  - `docs/GroupBuild/GB_Home_v1.md`
+  - `docs/GroupBuild/GB_Paths_CityStudioGarden_v1.md`
+
+- **GroupBuild CoPortal manifest**
+  - `docs/CoPortals/GroupBuild_CoPortal_manifest_v0.json`
+
+- **GroupBuild-specific CoGBx intent cards**
+  - `docs/CoGBx/examples/CoGBx_Intent_GroupBuild_DisplacedWorker_v0.yaml`
+  - `docs/CoGBx/examples/CoGBx_Intent_GroupBuild_LocalOrganizer_v0.yaml`
+
+- **Commercial cousin stub (hidden, optional)**
+  - `docs/GroupBuild/GB_CommercialStub_v1.md`
+
+Future Academia Shock work should treat GroupBuild as the default field lab for testing:
+- CoGBx literacy paths,
+- steward consoles for non-technical people,
+- and edge-balanced guarantees in real human settings.
